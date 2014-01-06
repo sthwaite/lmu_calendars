@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kaleo//-//
+BEGIN:VEVENT
+SUMMARY:Solid State Theory Seminar: Quantum Simulations with Ultracold Ato
+ ms: Beyond Standard Optical Lattices
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T113000
+UID:-109801511217145849
+DESCRIPTION:Speaker: Walter Hofstetter\, Goethe-University\, Frankfurt am 
+ Main\n\n \n\nThe last years have witnessed dramatic progress in experimen
+ tal control and refinement of quantum simulations based on ultracold atoms
+ . Major recent developments are the realization of synthetic gauge fields 
+ for neutral atoms\, allowing the simulation of topologically nontrivial ph
+ ases of matter\, and the creation of frustrated lattice geometries such as
+  triangular or Kagome. Particularly rich physics arises in the presence of
+  multiple atomic species and strong interactions\, which I will highlight 
+ for several examples:\n\n1) We propose and theoretically investigate a hyb
+ rid system composed of a crystal of trapped ions coupled to a cloud of ult
+ racold fermions. The ions form a periodic lattice and induce a band struct
+ ure in the atoms. This system combines the advantages of scalability and t
+ unability of ultracold atomic systems with the high fidelity operations an
+ d detection offered by trapped ion systems. It also features close analogi
+ es to natural solid-state systems\, as the atomic degrees of freedom coupl
+ e to phonons of the ion lattice\, thereby emulating a solid-state system. 
+ Starting from the microscopic many-body Hamiltonian\, we derive the low en
+ ergy Hamiltonian including\n\nthe atomic band structure and give an expres
+ sion for the atom-phonon coupling. We discuss possible experi-mental imple
+ mentations such as a Peierls-like transition into a period-doubled dimeriz
+ ed state.\n\n2) We consider a spinful and time-reversal invariant version 
+ of the Hofstadter problem which can be realized in ultracold atoms. In the
+ se experiments\, an additional staggered potential and spin-orbit coupling
+  are available. Without interactions\, the system exhibits various phases 
+ such as topological and normal insulator\, metal as well as semi-metal pha
+ ses with two or even more Dirac cones. Using a combination of real-space d
+ ynamical mean-field theory and analytical techniques\, we discuss the effe
+ ct of on-site interactions and determine the corresponding phase diagram. 
+ Specifically\, we investigate the stability of topological insulator phase
+ s in the presence of strong interactions.\n\n3) We study Bose-Bose mixture
+ s on a triangular lattice\, where geometric frustration arises for asymmet
+ ric hopping. We map out a rich ground state phase diagram including xy-fer
+ romagnetic\, spin-density wave\, superfluid\, and supersolid phases.\n\n 
+ \n\nhttp://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
+ /solid_state_theory/archiv_20141/20140110_hofstetter/index.html
+LOCATION:A348 - Theresienstr. 37
+URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
+ /solid_state_theory/archiv_20141/20140110_hofstetter/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solid State Theory Seminar: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T113000
+UID:-7768908954974410682
+DESCRIPTION:Speaker: Jens Bardarson\, MPI Dresden\n\n\n\nhttp://www.theori
+ e.physik.uni-muenchen.de/lsschollwoeck/talks_seminars/solid_state_theory/a
+ rchiv_20141/20140207_bardarson/index.html
+LOCATION:A348 - Theresienstr. 37
+URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
+ /solid_state_theory/archiv_20141/20140207_bardarson/index.html
+END:VEVENT
+END:VCALENDAR
