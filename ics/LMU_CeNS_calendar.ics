@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T174500
-UID:2343310109281664528
-DESCRIPTION:Speaker: Prof. Jeffrey I. Zink\, University of California Los 
- Angeles\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
- ien/cens_seminar/140207_zink/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140207_zink/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Flat Optics based on Metasurfaces
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140124T163000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140124T174500
@@ -56,5 +44,17 @@ DESCRIPTION:Speaker: Prof. Berenike Maier\, Universität zu Köln\n\n\n\nh
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140131_maier/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T174500
+UID:2343310109281664528
+DESCRIPTION:Speaker: Prof. Jeffrey I. Zink\, University of California Los 
+ Angeles\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
+ ien/cens_seminar/140207_zink/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140207_zink/index.html
 END:VEVENT
 END:VCALENDAR

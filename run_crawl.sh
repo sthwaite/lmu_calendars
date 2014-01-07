@@ -29,4 +29,6 @@ $SCRAPY crawl lmu_solidstate_spider --set FEED_URI=$FEED_DIR/LMU_solidstate_cale
 
 date > $FEED_DIR/last_updated.dat
 
-# push updated files to GitHub
+# Local commit all modified files and push db to remote master on GitHub
+git commit -a -m "Calendars current as of ""`date`"
+git push origin master
