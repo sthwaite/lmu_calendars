@@ -2,6 +2,10 @@
 ########################
 *~
 
-# Compiled python code
+# Python bytecode
 ########################
 *.pyc
+
+# Shell driver files
+########################
+*.sh
