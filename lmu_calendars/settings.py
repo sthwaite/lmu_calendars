@@ -7,7 +7,7 @@
 #
 
 BOT_NAME = 'lmu_calendars'
-BOT_VERSION = '1.0'
+BOT_VERSION = '1.0' ## deprecated in newer versions of scrapy
 
 SPIDER_MODULES = ['lmu_calendars.spiders']
 NEWSPIDER_MODULE = 'lmu_calendars.spiders'

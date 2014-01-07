@@ -1,0 +1,7 @@
+# Temp files made by emacs
+########################
+*~
+
+# Compiled python code
+########################
+*.pyc

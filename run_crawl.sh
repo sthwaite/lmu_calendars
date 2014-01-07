@@ -6,9 +6,9 @@
 # Copyright Simon Thwaite, January 2014 
 # simon.thwaite@gmail.com
 
-SCRAPY=/usr/bin/scrapy
-CRAWL_DIR=/home/simon/work/calendars/lmu_calendars
-FEED_DIR=/home/simon/work/calendars/lmu_calendars/ics
+SCRAPY=/project/theorie/s/Simon.Thwaite/libraries/scrapy-scrapy-a19c880/bin/scrapy
+CRAWL_DIR=/project/theorie/s/Simon.Thwaite/work/lmu_calendars
+FEED_DIR=/project/theorie/s/Simon.Thwaite/work/lmu_calendars/ics
 
 cd $CRAWL_DIR
 
@@ -28,3 +28,5 @@ rm -f $FEED_DIR/LMU_solidstate_calendar.ics
 $SCRAPY crawl lmu_solidstate_spider --set FEED_URI=$FEED_DIR/LMU_solidstate_calendar.ics --set FEED_FORMAT=ics
 
 date > $FEED_DIR/last_updated.dat
+
+# push updated files to GitHub
