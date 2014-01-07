@@ -15,6 +15,18 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T174500
+UID:3208780395934042306
+DESCRIPTION:Speaker: Prof. Norbert Koch\, Humboldt-Universität zu Berlin\
+ n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
+ _seminar/140117_koch/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140117_koch/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140131T163000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140131T174500
 UID:5784400745543425614
@@ -44,17 +56,5 @@ DESCRIPTION:Speaker: Prof. Federico Capasso\, Harvard School of Engineerin
 LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140124_capasso/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T174500
-UID:3208780395934042306
-DESCRIPTION:Speaker: Prof. Norbert Koch\, Humboldt-Universität zu Berlin\
- n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
- _seminar/140117_koch/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140117_koch/index.html
 END:VEVENT
 END:VCALENDAR
