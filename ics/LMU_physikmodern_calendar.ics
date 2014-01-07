@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kaleo//-//
+BEGIN:VEVENT
+SUMMARY:Physik Modern: Stringtheorie und Geometrie
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140123T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140123T203000
+UID:5747427792741840658
+DESCRIPTION:Speaker: PD. Dr. Ralph Blumenhagen\, MPI für Physik\, Münche
+ n\n\nDie grundlegende Idee der Stringtheorie ist\, dass Teilchen und Kräf
+ te durch fundamentale ein-dimensionale Objekte (Strings) beschrieben werde
+ n. In diesem nicht ganz formelfreien Vortrag aus der theoretischen Physik 
+ wird dargestellt\, wie diese Annahme unsere üblichen Vorstellungen von Ra
+ um und Zeit verändert. Der Vortrag richtig sich an alle\, die schon immer
+  etwas mehr über höhere Dimensionen\, kleinste Abstände\, Branen\, Cala
+ bi-Yau-Mannigfaltigkeiten und nichtkommutative Geometrie erfahren wollten.
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/majorovits1/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/majorovits1/index.html
+END:VEVENT
+END:VCALENDAR
