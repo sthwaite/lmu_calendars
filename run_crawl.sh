@@ -1,10 +1,11 @@
 #!/bin/bash
 
-#
 # Simple bash driver to launch spiders that generate .ics files for LMU seminars
-#
-# Copyright Simon Thwaite, January 2014 
-# simon.thwaite@gmail.com
+# Simon Thwaite (simon.thwaite@gmail.com)
+# January 2014 
+
+# Read in environment variables like PYTHONPATH
+source ~/.bashrc
 
 SCRAPY=/project/theorie/s/Simon.Thwaite/libraries/scrapy-scrapy-a19c880/bin/scrapy
 CRAWL_DIR=/project/theorie/s/Simon.Thwaite/work/lmu_calendars
@@ -30,5 +31,6 @@ $SCRAPY crawl lmu_solidstate_spider --set FEED_URI=$FEED_DIR/LMU_solidstate_cale
 date > $FEED_DIR/last_updated.dat
 
 # Local commit all modified files and push db to remote master on GitHub
+
 git commit -a -m "Calendars current as of ""`date`"
 git push origin master
