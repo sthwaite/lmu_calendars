@@ -1,6 +1,6 @@
 from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
-from scrapy.selector import HtmlXPathSelector
+from scrapy.selector import Selector
 from datetime import datetime, timedelta
 import pytz
 import re
@@ -23,43 +23,33 @@ class LMUKolloquiumSpider(CrawlSpider):
        
     def parse_item(self, response):
         # This method is called on the response from each link followed
-        hxs = HtmlXPathSelector(response)
-        
+        sel = Selector(response)
         items = []
 
         # title
-        title = hxs.select("//h1[@class='g-h1 g-margin-bottom titel']/text()").extract()[0].strip(" \n")
+        title = sel.xpath("//h1[@class='g-h1 g-margin-bottom titel']/text()").extract()[0].strip(" \n")
 
         # subtitle gives speaker and affiliation
-        speaker_details = hxs.select("//h2[@class='g-h3 g-no-margin-top untertitel']/text()").extract()[0]
-#        affiliation_MO = re.search("(\(.*\))", speaker_details)
-
-#        if affiliation_MO:
-#            affiliation = affiliation_MO.groups(0)[0][1:-1]
-#            speaker = speaker_details[ :affiliation_MO.start()]
-#        else:
-#            affiliation = None
-#            speaker = speaker_details
+        speaker_details = sel.xpath("//h2[@class='g-h3 g-no-margin-top untertitel']/text()").extract()[0]
 
         # date and time section
-        date_and_time = hxs.select("//div[@class='g-box g-padding-text g-margin-top g-margin-bottom-s']/p[@class='g-fontsize-s g-margin-bottom-s datum']/text()")
+        date_and_time = sel.xpath("//div[@class='g-box g-padding-text g-margin-top g-margin-bottom-s']/p[@class='g-fontsize-s g-margin-bottom-s datum']/text()")
         date = date_and_time.re('(\d{1,2}\.\d{1,2}\.\d{4})')[0]
         times = date_and_time.re('(\d{1,2}:\d{2})')
         start_time = times[0]
         end_time = times[1] if len(times) > 1 else None
 
-        location = hxs.select("//div[@class='g-box g-padding-text g-margin-top g-margin-bottom-s']/p[@class='g-fontsize-s ort']/text()").extract()[0].strip("\n ")
+        location = sel.xpath("//div[@class='g-box g-padding-text g-margin-top g-margin-bottom-s']/p[@class='g-fontsize-s ort']/text()").extract()[0].strip("\n ")
 
-        abstract_tag =  hxs.select("//div[@class='user-html hauptinhalt']")
-        if abstract_tag:
-            abstract = abstract_tag.select("./p/text()").extract()[0].strip(" \n")
+        abstract_tag = sel.xpath("//div[@class='user-html hauptinhalt']")
+
+        if abstract_tag:         
+            abstract = abstract_tag.xpath("./p[1]").extract()[0]
         else:
             abstract = ""
 
-        # The MPK page has no extra [p] tag in the hauptinhalt. In case CENS adopts this, then the following should work:
-#        if not abstract:
-#            abstract = hxs.select("//div[@class='user-html hauptinhalt']/text()").extract()[0].strip("\n ")           
 
+        # Format information into suitable form for ical dictionary
         (day, mth, yr) = map(int, date.split("."))
 
         time_separator = ":" if ":" in start_time else "."
@@ -74,6 +64,7 @@ class LMUKolloquiumSpider(CrawlSpider):
         else:
             end_time_DT = start_time_DT + timedelta(hours = 1.25)
 
+        # Create icalendar item
         item = ICalendarEventItem()        
         item['summary'] = u"CeNS Seminar: " + title      
         item['url'] = response.url
