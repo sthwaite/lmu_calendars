@@ -50,7 +50,6 @@ class LMUKolloquiumSpider(CrawlSpider):
 
         for para in abstract_pieces:
             text_list = para.select(".//text()").extract()
-            print text_list
 
             if text_list:
                 para_text = "\n\n".join([txt.strip(" \n") for txt in text_list])  
