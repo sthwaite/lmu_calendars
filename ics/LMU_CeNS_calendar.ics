@@ -2,28 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140131T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140131T174500
-UID:5784400745543425614
-DESCRIPTION:Speaker: Prof. Berenike Maier\, Universität zu Köln\n\n\n\nh
- ttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar
- /140131_maier/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+SUMMARY:CeNS Seminar: Flat Optics based on Metasurfaces
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140124T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140124T174500
+UID:-2703331088703816376
+DESCRIPTION:Speaker: Prof. Federico Capasso\, Harvard School of Engineerin
+ g and Applied Sciences\n\n<p>Metasurfaces based on sub-wavelength patterni
+ ng have major potential for realizing arbitrary control of the wavefront o
+ f the diffracted light by achieving local control of the phase amplitude a
+ nd polarization. We discuss novel devices based on this technique\; a sali
+ ent feature is the ability to create often with a single digital mask an a
+ rbitrary analog phase profile. A variety of flat optical components\, incl
+ uding lenses\, polarizers\, vortex plates\, coatings\, holograms and coupl
+ ers with polarization invariant coupling efficiency will be presented.</p>
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140124_capasso/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140131_maier/index.html
+ minar/140124_capasso/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T174500
-UID:2343310109281664528
-DESCRIPTION:Speaker: Prof. Jeffrey I. Zink\, University of California Los 
- Angeles\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
- ien/cens_seminar/140207_zink/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T174500
+UID:3208780395934042306
+DESCRIPTION:Speaker: Prof. Norbert Koch\, Humboldt-Universität zu Berlin\
+ n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
+ _seminar/140117_koch/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140207_zink/index.html
+ minar/140117_koch/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Taking Control of Superconducting Quantum Electronic
@@ -58,34 +66,26 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T174500
-UID:3208780395934042306
-DESCRIPTION:Speaker: Prof. Norbert Koch\, Humboldt-Universität zu Berlin\
- n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
- _seminar/140117_koch/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140117_koch/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Flat Optics based on Metasurfaces
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140124T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140124T174500
-UID:-2703331088703816376
-DESCRIPTION:Speaker: Prof. Federico Capasso\, Harvard School of Engineerin
- g and Applied Sciences\n\n<p>Metasurfaces based on sub-wavelength patterni
- ng have major potential for realizing arbitrary control of the wavefront o
- f the diffracted light by achieving local control of the phase amplitude a
- nd polarization. We discuss novel devices based on this technique\; a sali
- ent feature is the ability to create often with a single digital mask an a
- rbitrary analog phase profile. A variety of flat optical components\, incl
- uding lenses\, polarizers\, vortex plates\, coatings\, holograms and coupl
- ers with polarization invariant coupling efficiency will be presented.</p>
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140124_capasso/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T174500
+UID:2343310109281664528
+DESCRIPTION:Speaker: Prof. Jeffrey I. Zink\, University of California Los 
+ Angeles\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
+ ien/cens_seminar/140207_zink/index.html
 LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140124_capasso/index.html
+ minar/140207_zink/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140131T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140131T174500
+UID:5784400745543425614
+DESCRIPTION:Speaker: Prof. Berenike Maier\, Universität zu Köln\n\n\n\nh
+ ttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar
+ /140131_maier/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140131_maier/index.html
 END:VEVENT
 END:VCALENDAR
