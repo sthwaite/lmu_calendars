@@ -2,6 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Status of the Electroweak Standard M
+ odel
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140115T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140115T173000
+UID:-7722754733241639376
+DESCRIPTION:Professor Jens Erler\, Universidad Nacional Autonoma de Mexico
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/erler/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/erler/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T161500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T173000
@@ -13,6 +27,19 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/x4/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T173000
+UID:209252150755298457
+DESCRIPTION:Professor Bernard Julia\, ENS Paris\, France\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/julia/inde
+ x.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/julia/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Conformal Field Theories\, Old and N
@@ -39,32 +66,5 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/sethna/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T173000
-UID:209252150755298457
-DESCRIPTION:Professor Bernard Julia\, ENS Paris\, France\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/julia/inde
- x.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/julia/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Status of the Electroweak Standard M
- odel
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140115T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140115T173000
-UID:-7722754733241639376
-DESCRIPTION:Professor Jens Erler\, Universidad Nacional Autonoma de Mexico
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/erler/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/erler/index.html
 END:VEVENT
 END:VCALENDAR
