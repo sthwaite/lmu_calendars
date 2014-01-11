@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Taking Control of Superconducting Quantum Electronic
- s
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T174500
-UID:7166926709099431262
-DESCRIPTION:Speaker: Prof. Irfan Siddiqi\, University of California Berkel
- ey\n\n<p><span lang="EN-US">Electronic circuits which exhibit quantum mech
- anical phenomena—superposition and entanglement\, in particular—promis
- e a new generation of computers capable of solving currently intractable p
- roblems\, secure communication\, and an efficient route to simulate new ma
- terials and even cosmology. One of the fundamental challenges\, however\, 
- in quantum information processing is to sustain coherence over a time inte
- rval practical for performing a computation or simulation. Until now\, boo
- sting coherence has involved hardware development to minimize coupling to 
- a dissipative environment which typically transforms a quantum superpositi
- on into a classical state. Recent advances in the development of robust qu
- antum-noise-limited microwave amplifiers and quantum bits with lifetimes i
- n excess of 100 microseconds have enabled the use of feedback to <i>active
- ly</i> suppress decoherence. In particular\, we have been able to tailor t
- he dissipative environment\, either via measurement or control pulses\, to
-  stabilize quantum superposition states and coherent oscillations as well 
- as track the evolution of single and two qubit states. These initial exper
- iments suggest the plausibility of high fidelity feedback as a means to ge
- nerate and maintain quantum entanglement.</span></p>\n\nhttp://www.physik.
- uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140110_siddiqi/i
- ndex.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140110_siddiqi/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T163000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T174500
@@ -109,5 +78,36 @@ DESCRIPTION:Speaker: Prof. Federico Capasso\, Harvard School of Engineerin
 LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140124_capasso/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Taking Control of Superconducting Quantum Electronic
+ s
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T174500
+UID:7166926709099431262
+DESCRIPTION:Speaker: Prof. Irfan Siddiqi\, University of California Berkel
+ ey\n\n<p><span lang="EN-US">Electronic circuits which exhibit quantum mech
+ anical phenomena—superposition and entanglement\, in particular—promis
+ e a new generation of computers capable of solving currently intractable p
+ roblems\, secure communication\, and an efficient route to simulate new ma
+ terials and even cosmology. One of the fundamental challenges\, however\, 
+ in quantum information processing is to sustain coherence over a time inte
+ rval practical for performing a computation or simulation. Until now\, boo
+ sting coherence has involved hardware development to minimize coupling to 
+ a dissipative environment which typically transforms a quantum superpositi
+ on into a classical state. Recent advances in the development of robust qu
+ antum-noise-limited microwave amplifiers and quantum bits with lifetimes i
+ n excess of 100 microseconds have enabled the use of feedback to <i>active
+ ly</i> suppress decoherence. In particular\, we have been able to tailor t
+ he dissipative environment\, either via measurement or control pulses\, to
+  stabilize quantum superposition states and coherent oscillations as well 
+ as track the evolution of single and two qubit states. These initial exper
+ iments suggest the plausibility of high fidelity feedback as a means to ge
+ nerate and maintain quantum entanglement.</span></p>\n\nhttp://www.physik.
+ uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140110_siddiqi/i
+ ndex.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140110_siddiqi/index.html
 END:VEVENT
 END:VCALENDAR
