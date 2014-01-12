@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T173000
-UID:209252150755298457
-DESCRIPTION:Professor Bernard Julia\, ENS Paris\, France\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/julia/inde
- x.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/julia/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Status of the Electroweak Standard M
  odel
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140115T161500
@@ -27,19 +14,6 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/erler/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Sloppy Models and How Science Works
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140116T121500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140116T133000
-UID:482164815070762868
-DESCRIPTION:Professor James P. Sethna\, Cornell University\, USA\n\nhttp:/
- /www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/se
- thna/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/sethna/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
@@ -66,5 +40,31 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/theisen/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T173000
+UID:209252150755298457
+DESCRIPTION:Professor Bernard Julia\, ENS Paris\, France\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/julia/inde
+ x.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/julia/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Sloppy Models and How Science Works
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140116T121500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140116T133000
+UID:482164815070762868
+DESCRIPTION:Professor James P. Sethna\, Cornell University\, USA\n\nhttp:/
+ /www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/se
+ thna/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/sethna/index.html
 END:VEVENT
 END:VCALENDAR

@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Solid State Theory Seminar: CANCELLED
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T101500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140110T113000
-UID:-768631470708167313
-DESCRIPTION:Speaker: Walter Hofstetter\, Goethe-University\, Frankfurt am 
- Main\n\n\n\nhttp://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_
- seminars/solid_state_theory/archiv_20141/20140110_hofstetter/index.html
-LOCATION:A348 - Theresienstr. 37
-URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
- /solid_state_theory/archiv_20141/20140110_hofstetter/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Solid State Theory Seminar: TBA
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T101500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T113000
