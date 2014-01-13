@@ -16,17 +16,17 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/erler/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T173000
-UID:8028488217449755422
-DESCRIPTION:Professor Konstantin B. Efetov\, Ruhr-University-Bochum\n\nhtt
- p://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium
- /x4/index.html
+SUMMARY:Sommerfeld Theory Colloquium: Conformal Field Theories\, Old and N
+ ew
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140122T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140122T173000
+UID:-7382923977485609167
+DESCRIPTION:Professor Stefan Theisen\, AEI Golm\n\nhttp://www.physik.uni-m
+ uenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/theisen/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/x4/index.html
+ loquium/theisen/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Sloppy Models and How Science Works
@@ -43,6 +43,19 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T173000
+UID:8028488217449755422
+DESCRIPTION:Professor Konstantin B. Efetov\, Ruhr-University-Bochum\n\nhtt
+ p://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium
+ /x4/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/x4/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T161500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T173000
 UID:209252150755298457
@@ -53,18 +66,5 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/julia/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Conformal Field Theories\, Old and N
- ew
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140122T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140122T173000
-UID:-7382923977485609167
-DESCRIPTION:Professor Stefan Theisen\, AEI Golm\n\nhttp://www.physik.uni-m
- uenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/theisen/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/theisen/index.html
 END:VEVENT
 END:VCALENDAR

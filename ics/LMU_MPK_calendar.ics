@@ -35,30 +35,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_10/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Oxide interfaces – a fantastic worl
- d for electrons\; from MOSFETs to novel electron systems
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140127T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140127T183000
-UID:6131692092204630479
-DESCRIPTION:Speaker: Prof. Dr. Jochen Mannhart\n(Max Planck Institute for 
- Solid State Research Stuttgart)\n\nExtraordinary electron systems can be g
- enerated at well-defined interfaces between complex oxides [1]. These two-
- dimensional electron systems are characterized by properties that fundamen
- tally differ from those of two-dimensional electron gases in semiconductor
-  heterostructures\, which provide the basis of the Quantum Hall Effect and
-  are exploited in high electron mobility transistors.In recent years\, gro
- undbreaking progress has been achieved in exploring and utilizing novel ox
- ide electron systems. In the presentation I will provide an overview of th
- eir surprising properties (see\, e.g.\, [2]) and explore the potential of 
- electron liquids at oxide interfaces for the use in nanoscale electronic d
- evices.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/
- physik_kolloquium/mpk_lmu_12/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_12/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Spin qubits in GaAs quantum dots – 
  progress towards scalability
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140120T171500
@@ -84,6 +60,30 @@ DESCRIPTION:Speaker: Prof. Dr. Hendrik Bluhm\n(Experimentalphysik und II.
 LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_11/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Oxide interfaces – a fantastic worl
+ d for electrons\; from MOSFETs to novel electron systems
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140127T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140127T183000
+UID:6131692092204630479
+DESCRIPTION:Speaker: Prof. Dr. Jochen Mannhart\n(Max Planck Institute for 
+ Solid State Research Stuttgart)\n\nExtraordinary electron systems can be g
+ enerated at well-defined interfaces between complex oxides [1]. These two-
+ dimensional electron systems are characterized by properties that fundamen
+ tally differ from those of two-dimensional electron gases in semiconductor
+  heterostructures\, which provide the basis of the Quantum Hall Effect and
+  are exploited in high electron mobility transistors.In recent years\, gro
+ undbreaking progress has been achieved in exploring and utilizing novel ox
+ ide electron systems. In the presentation I will provide an overview of th
+ eir surprising properties (see\, e.g.\, [2]) and explore the potential of 
+ electron liquids at oxide interfaces for the use in nanoscale electronic d
+ evices.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/
+ physik_kolloquium/mpk_lmu_12/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_12/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Getting charged up for hard work on s
