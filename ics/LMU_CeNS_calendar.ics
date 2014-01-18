@@ -22,40 +22,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140124_capasso/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Bulk and interface doping of organic semiconductors
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T163000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140117T174500
-UID:-4396024334534530213
-DESCRIPTION:Speaker: Prof. Norbert Koch\, Humboldt-Universität\, Berlin\n
- \n<p>Doping organic semiconductors is a key technique for expanding the fu
- nctionality of organic (opto-) electronic devices. It allows adjusting the
-  position of the Fermi level relative to the semiconductor transport level
- s and it reduces ohmic losses in transport layers through increased conduc
- tivity. Based on concepts adopted from inorganic semiconductor physics\, o
- ften integer charge transfer from the highest occupied molecular orbital (
- HOMO) of the semiconductor to the lowest unoccupied molecular orbital (LUM
- O) of a p-dopant\, and vice versa for n-type doping\, is assumed. Recently
- \, an alternative model was proposed [1]\, which is based on frontier mole
- cular orbital hybridization between the semiconductor HOMO and the dopant 
- LUMO\, leading to the formation of a supramolecular complex with a reduced
-  energy gap between a doubly occupied bonding and an unoccupied antibondin
- g hybrid orbital. Evidence for the existence for such complexes will be pr
- ovided\, which allows deriving guidelines for designing new dopants [2].<b
- r>Another important issue is realizing ohmic electrical contacts to organi
- c semiconductors. Fermi level pinning at electrode/organic interfaces prov
- ides for induced charge carriers on the semiconductor side\, which can be 
- viewed as interface doping with concomitant band bending [3]. However\, de
- pending on the electronic coupling strength between the electrode and the 
- organic semiconductor\, the band bending region may collapse into one mono
- layer. A global electrostatic treatment helps rationalizing the transition
-  between models that employ either extended band bending or interface dipo
- les.</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien
- /cens_seminar/140117_koch/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140117_koch/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T163000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T174500
