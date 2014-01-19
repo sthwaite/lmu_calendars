@@ -2,6 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Power of Duality symmetries in Physi
+ cs
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T173000
+UID:7176771481504034377
+DESCRIPTION:Professor Bernard Julia\, ENS Paris\, France\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/julia/inde
+ x.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/julia/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Conformal Field Theories\, Old and N
  ew
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140122T161500
@@ -26,19 +40,5 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/x4/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Power of Duality symmetries in Physi
- cs
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140129T173000
-UID:7176771481504034377
-DESCRIPTION:Professor Bernard Julia\, ENS Paris\, France\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/julia/inde
- x.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/julia/index.html
 END:VEVENT
 END:VCALENDAR
