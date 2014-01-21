@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Spin qubits in GaAs quantum dots – 
- progress towards scalability
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140120T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140120T183000
-UID:-3057070333507389293
-DESCRIPTION:Speaker: Prof. Dr. Hendrik Bluhm\n(Experimentalphysik und II. 
- Physikalisches Institut\, RWTH Aachen)\n\nThe performance of qubits consis
- ting of electron spins in semiconductors trapped via electrostatic gates h
- as seen dramatic improvements over the last few years. In particular\, the
-  measured dephasing times associated with electrical noise and nuclear spi
- n fluctuations were increased by orders of magnitude\, and high fidelity s
- ingle shot readout has been realized. To make further progress\, it is ess
- ential to realize high fidelity gates for single and multiple qubits. One 
- milestone is our recent demonstration and characterization of a two-qubit 
- entangling gate.For single qubit gates\, we find from a numerical optimiza
- tion based on the measured dephasing times and taking realistic constraint
- s into account that fidelities approaching the threshold required for quan
- tum error correction should be achievable. I will conclude with an outlook
-  of what is needed beyond these promising results to move further along th
- e path towards scalable semiconductor qubits that are viable for quantum i
- nformation processing.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
- aet/kolloquien/physik_kolloquium/mpk_tum_11/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_11/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Getting charged up for hard work on s
  oft matter
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140203T171500
