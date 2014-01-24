@@ -4,9 +4,9 @@ PRODID:-//Kaleo//-//
 BEGIN:VEVENT
 SUMMARY:Solid State Theory Seminar: Thermoelectric transport through Kondo
   nano-devices
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140130T120000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140130T131500
-UID:-7302158586945856449
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140130T121500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140130T133000
+UID:-1300614602528898555
 DESCRIPTION:Speaker: Mikhail  Kiselev\, ICTP\, Trieste\n\n\nWe investigate
   the interplay between effects of Zeeman field and strongSpin-Orbit (SO) i
  nteraction in the single electron transistor built on aquantum dot strongl
