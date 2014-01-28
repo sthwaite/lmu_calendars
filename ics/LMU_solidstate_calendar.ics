@@ -2,26 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Solid State Theory Seminar: Do quantum point contacts magnetize?
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T101500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T113000
-UID:-5551936908326781635
-DESCRIPTION:Speaker: Karl Berggren\, Linkpinks University\,  Sweden\n\n\nQ
- uantum Point Contacts (QPCs) or short quantum wires/constructions are fabr
- icated from the semiconductor  layered materials like AlGaAs/GaAs.The two
- -dimension electron gas that resides at the flat interface may be  tailor
- ed by  lithography and applied voltages into\, for example\, a wire. The 
- conductance is found to be quantized in steps of 2e**2/h (1998). This is w
- ell understood in terms of non-interacting electrons. There is also a rela
- ted  “anomalous” plateau at 0.7 in the same units. Recorded already 1
- 996 it is still not well understood. There are a  number of propositions 
- but as yet no consensus. This talk presents arguments thatspin-polarizatio
- n or local magnetization may occur for interacting electrons in the low de
- nsity limit.\n\nhttp://www.theorie.physik.uni-muenchen.de/lsschollwoeck/ta
- lks_seminars/solid_state_theory/archiv_20141/20140228_berggren/index.html
+SUMMARY:Solid State Theory Seminar: Many-body localization and entanglemen
+ t dynamics
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T113000
+UID:3261204627238337974
+DESCRIPTION:Speaker: Jens Bardarson\, MPI Dresden\n\nThe rapidly emerging 
+ field of many-body localization is concerned with the fate of the Anderson
+  insulator under electron-electron interaction and the characterization of
+  the possible resulting many-body localized phase.\n\nIn this talk I will 
+ discuss a slow (logarithmic) increase of entanglement after a global quenc
+ h deep in the localized phase\, and the use of a local quench and the resu
+ lting entanglement dynamics to explore the properties of the delocalizatio
+ n transition. In addition I will present numerical data in support of vari
+ ous different many-body localized phases\, as discussed phenomenologically
+  by Huse et al.\, in particular a spin-glass phase in an Ising model of ma
+ ny-body localization.\n\n \n\nhttp://www.theorie.physik.uni-muenchen.de/l
+ sschollwoeck/talks_seminars/solid_state_theory/archiv_20141/20140207_barda
+ rson/index.html
 LOCATION:A348 - Theresienstr. 37
 URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
- /solid_state_theory/archiv_20141/20140228_berggren/index.html
+ /solid_state_theory/archiv_20141/20140207_bardarson/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solid State Theory Seminar: Thermoelectric transport through Kondo
@@ -47,26 +48,25 @@ URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
  /solid_state_theory/archiv_20141/20140130_kiselev/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Solid State Theory Seminar: Many-body localization and entanglemen
- t dynamics
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T101500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140207T113000
-UID:3261204627238337974
-DESCRIPTION:Speaker: Jens Bardarson\, MPI Dresden\n\nThe rapidly emerging 
- field of many-body localization is concerned with the fate of the Anderson
-  insulator under electron-electron interaction and the characterization of
-  the possible resulting many-body localized phase.\n\nIn this talk I will 
- discuss a slow (logarithmic) increase of entanglement after a global quenc
- h deep in the localized phase\, and the use of a local quench and the resu
- lting entanglement dynamics to explore the properties of the delocalizatio
- n transition. In addition I will present numerical data in support of vari
- ous different many-body localized phases\, as discussed phenomenologically
-  by Huse et al.\, in particular a spin-glass phase in an Ising model of ma
- ny-body localization.\n\n \n\nhttp://www.theorie.physik.uni-muenchen.de/l
- sschollwoeck/talks_seminars/solid_state_theory/archiv_20141/20140207_barda
- rson/index.html
+SUMMARY:Solid State Theory Seminar: Do quantum point contacts magnetize?
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T113000
+UID:-5551936908326781635
+DESCRIPTION:Speaker: Karl Berggren\, Linkpinks University\,  Sweden\n\n\nQ
+ uantum Point Contacts (QPCs) or short quantum wires/constructions are fabr
+ icated from the semiconductor  layered materials like AlGaAs/GaAs.The two
+ -dimension electron gas that resides at the flat interface may be  tailor
+ ed by  lithography and applied voltages into\, for example\, a wire. The 
+ conductance is found to be quantized in steps of 2e**2/h (1998). This is w
+ ell understood in terms of non-interacting electrons. There is also a rela
+ ted  “anomalous” plateau at 0.7 in the same units. Recorded already 1
+ 996 it is still not well understood. There are a  number of propositions 
+ but as yet no consensus. This talk presents arguments thatspin-polarizatio
+ n or local magnetization may occur for interacting electrons in the low de
+ nsity limit.\n\nhttp://www.theorie.physik.uni-muenchen.de/lsschollwoeck/ta
+ lks_seminars/solid_state_theory/archiv_20141/20140228_berggren/index.html
 LOCATION:A348 - Theresienstr. 37
 URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
- /solid_state_theory/archiv_20141/20140207_bardarson/index.html
+ /solid_state_theory/archiv_20141/20140228_berggren/index.html
 END:VEVENT
 END:VCALENDAR
