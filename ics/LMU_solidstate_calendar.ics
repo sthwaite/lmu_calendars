@@ -2,27 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Solid State Theory Seminar: Thermoelectric transport through Kondo
-  nano-devices
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140130T121500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140130T133000
-UID:-1300614602528898555
-DESCRIPTION:Speaker: Mikhail  Kiselev\, ICTP\, Trieste\n\n\nWe investigate
-  the interplay between effects of Zeeman field and strongSpin-Orbit (SO) i
- nteraction in the single electron transistor built on aquantum dot strongl
- y coupled to one of the leads by a single-mode quantumpoint contact. It is
-  shown that at the magnetic field smaller compared toeffective field assoc
- iated with the spin-orbit interaction thethermoelectric coefficients depen
- d on an angle between the Zeeman and SOfields allowing a fine-tuning a Fer
- mi-liquid to Non-Fermi-liquid crossoverby the in-plane magnetic field. We 
- discuss how the effects of strongelectron interaction and resonance scatte
- ring influence the thermoelectrictransport through the nano-devices and pr
- esent some suggestions forexperimental verification of our theoretical pre
- dictions.\n\nhttp://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks
- _seminars/solid_state_theory/archiv_20141/20140130_kiselev/index.html
+SUMMARY:Solid State Theory Seminar: Do quantum point contacts magnetize?
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T113000
+UID:-5551936908326781635
+DESCRIPTION:Speaker: Karl Berggren\, Linkpinks University\,  Sweden\n\n\nQ
+ uantum Point Contacts (QPCs) or short quantum wires/constructions are fabr
+ icated from the semiconductor  layered materials like AlGaAs/GaAs.The two
+ -dimension electron gas that resides at the flat interface may be  tailor
+ ed by  lithography and applied voltages into\, for example\, a wire. The 
+ conductance is found to be quantized in steps of 2e**2/h (1998). This is w
+ ell understood in terms of non-interacting electrons. There is also a rela
+ ted  “anomalous” plateau at 0.7 in the same units. Recorded already 1
+ 996 it is still not well understood. There are a  number of propositions 
+ but as yet no consensus. This talk presents arguments thatspin-polarizatio
+ n or local magnetization may occur for interacting electrons in the low de
+ nsity limit.\n\nhttp://www.theorie.physik.uni-muenchen.de/lsschollwoeck/ta
+ lks_seminars/solid_state_theory/archiv_20141/20140228_berggren/index.html
 LOCATION:A348 - Theresienstr. 37
 URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
- /solid_state_theory/archiv_20141/20140130_kiselev/index.html
+ /solid_state_theory/archiv_20141/20140228_berggren/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solid State Theory Seminar: Many-body localization and entanglemen
@@ -46,27 +45,5 @@ DESCRIPTION:Speaker: Jens Bardarson\, MPI Dresden\n\nThe rapidly emerging
 LOCATION:A348 - Theresienstr. 37
 URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
  /solid_state_theory/archiv_20141/20140207_bardarson/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solid State Theory Seminar: Do quantum point contacts magnetize?
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T101500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140228T113000
-UID:-5551936908326781635
-DESCRIPTION:Speaker: Karl Berggren\, Linkpinks University\,  Sweden\n\n\nQ
- uantum Point Contacts (QPCs) or short quantum wires/constructions are fabr
- icated from the semiconductor  layered materials like AlGaAs/GaAs.The two
- -dimension electron gas that resides at the flat interface may be  tailor
- ed by  lithography and applied voltages into\, for example\, a wire. The 
- conductance is found to be quantized in steps of 2e**2/h (1998). This is w
- ell understood in terms of non-interacting electrons. There is also a rela
- ted  “anomalous” plateau at 0.7 in the same units. Recorded already 1
- 996 it is still not well understood. There are a  number of propositions 
- but as yet no consensus. This talk presents arguments thatspin-polarizatio
- n or local magnetization may occur for interacting electrons in the low de
- nsity limit.\n\nhttp://www.theorie.physik.uni-muenchen.de/lsschollwoeck/ta
- lks_seminars/solid_state_theory/archiv_20141/20140228_berggren/index.html
-LOCATION:A348 - Theresienstr. 37
-URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
- /solid_state_theory/archiv_20141/20140228_berggren/index.html
 END:VEVENT
 END:VCALENDAR
