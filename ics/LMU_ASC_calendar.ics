@@ -16,10 +16,11 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/julia/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
+SUMMARY:Sommerfeld Theory Colloquium: Higher-Spin Gravity and Higher-Spin 
+ Black Holes in Three Dimensions
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T161500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T173000
-UID:-8553213280579717864
+UID:5071318387590436402
 DESCRIPTION:Professor Marc Henneaux\, Brussels University\n\nhttp://www.ph
  ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/henneaux/
  index.html
