@@ -16,6 +16,19 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/julia/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T173000
+UID:8028488217449755422
+DESCRIPTION:Professor Konstantin B. Efetov\, Ruhr-University-Bochum\n\nhtt
+ p://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium
+ /efetov/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/efetov/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Higher-Spin Gravity and Higher-Spin 
  Black Holes in Three Dimensions
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T161500
@@ -28,19 +41,6 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/henneaux/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140507T173000
-UID:8028488217449755422
-DESCRIPTION:Professor Konstantin B. Efetov\, Ruhr-University-Bochum\n\nhtt
- p://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium
- /efetov/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/efetov/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
