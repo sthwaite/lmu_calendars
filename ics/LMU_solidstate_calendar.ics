@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kaleo//-//
+BEGIN:VEVENT
+SUMMARY:Solid State Theory Seminar: Realizing a Kondo-correlated state wit
+ h ultracold atoms
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140317T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140317T113000
+UID:-5994487857782369845
+DESCRIPTION:Speaker: Johannes Bauer\, Harvard University\, USA\n\n\nWe pro
+ pose a novel realization of Kondo physics with ultracold atomic gases. It 
+ is based on a Fermi sea of two different hyperfine states of one atom spec
+ ies forming bound states with a different species\, which is spatially con
+ fined in a trapping potential. We show that different situations displayin
+ g Kondo physics can be realized when Feshbach resonances between the speci
+ es are tuned by a magnetic field andthe trapping frequency is varied. We i
+ llustrate that a mixture of${}^{40}$K and ${}^{23}$Na atoms can be used to
+  generate a Kondo correlated state and that momentum resolved radio freque
+ ncy spectroscopy can provide unambiguous signatures of the formation of Ko
+ ndo resonances at the Fermi energy. We discuss how tools of atomic physics
+  can be used to investigate open questions for Kondo physics\, such as the
+  extension of the Kondo screening cloud.\n\nhttp://www.theorie.physik.uni-
+ muenchen.de/lsschollwoeck/talks_seminars/solid_state_theory/archiv_20141/2
+ 0140317_bauer/index.html
+LOCATION:A 348 - Theresienstr. 37
+URL:http://www.theorie.physik.uni-muenchen.de/lsschollwoeck/talks_seminars
+ /solid_state_theory/archiv_20141/20140317_bauer/index.html
+END:VEVENT
+END:VCALENDAR
