@@ -15,6 +15,19 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/mezard/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T113000
+UID:-8539129525513018274
+DESCRIPTION:Professor Alex Kamenev\, Minnesota University\, USA\n\nhttp://
+ www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/kam
+ enev/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/kamenev/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Higher-Spin Gravity and Higher-Spin 
  Black Holes in Three Dimensions
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T161500
@@ -27,19 +40,6 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/henneaux/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: ASC-PhD-Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T173000
-UID:3293504458901490744
-DESCRIPTION:Dr. Stephan Langer\, Pittsburgh University\, USA\n\nhttp://www
- .physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/langer
- /index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/langer/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Einstein and Quantum Mechanics: It
@@ -67,5 +67,18 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/efetov/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: ASC-PhD-Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T173000
+UID:3293504458901490744
+DESCRIPTION:Dr. Stephan Langer\, Pittsburgh University\, USA\n\nhttp://www
+ .physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/langer
+ /index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/langer/index.html
 END:VEVENT
 END:VCALENDAR
