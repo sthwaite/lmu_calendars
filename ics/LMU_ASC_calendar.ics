@@ -3,16 +3,43 @@ VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140423T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140423T173000
-UID:-2837884990409869093
-DESCRIPTION:Professor Marc Mezard\, Paris-Sud University\, Paris\, France\
- n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_koll
- oquium/mezard/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T113000
+UID:-8539129525513018274
+DESCRIPTION:Professor Alex Kamenev\, Minnesota University\, USA\n\nhttp://
+ www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/kam
+ enev/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/mezard/index.html
+ loquium/kamenev/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: ASC-PhD-Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T173000
+UID:3293504458901490744
+DESCRIPTION:Dr. Stephan Langer\, Pittsburgh University\, USA\n\nhttp://www
+ .physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/langer
+ /index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/langer/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Einstein and Quantum Mechanics: It
+ ’s Not What You Think
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T173000
+UID:-4227267242607171505
+DESCRIPTION:Professor A. Douglas Stone\, Yale University\, USA\n\nhttp://w
+ ww.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/ston
+ e/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/stone/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
@@ -42,43 +69,16 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/henneaux/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: ASC-PhD-Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T173000
-UID:3293504458901490744
-DESCRIPTION:Dr. Stephan Langer\, Pittsburgh University\, USA\n\nhttp://www
- .physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/langer
- /index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/langer/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T113000
-UID:-8539129525513018274
-DESCRIPTION:Professor Alex Kamenev\, Minnesota University\, USA\n\nhttp://
- www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/kam
- enev/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140423T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140423T173000
+UID:-2837884990409869093
+DESCRIPTION:Professor Marc Mezard\, Paris-Sud University\, Paris\, France\
+ n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_koll
+ oquium/mezard/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/kamenev/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Einstein and Quantum Mechanics: It
- ’s Not What You Think
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T173000
-UID:-4227267242607171505
-DESCRIPTION:Professor A. Douglas Stone\, Yale University\, USA\n\nhttp://w
- ww.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/ston
- e/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/stone/index.html
+ loquium/mezard/index.html
 END:VEVENT
 END:VCALENDAR
