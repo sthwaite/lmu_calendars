@@ -3,15 +3,15 @@ VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T164500
-UID:4961246509760472187
-DESCRIPTION:Speaker: Prof. Shaul Mukamel\, University of California Irvine
- \n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cen
- s_seminar/140516_mukamel/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140425T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140425T164500
+UID:-3870550423181749420
+DESCRIPTION:Speaker: Prof. Heiko Weber\, Friedrich-Alexander-Universität 
+ Erlangen-Nürnberg\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
+ aet/kolloquien/cens_seminar/140425_weber/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140516_mukamel/index.html
+ minar/140425_weber/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
@@ -27,70 +27,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140606T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140606T164500
-UID:8436015388895234433
-DESCRIPTION:Speaker: Prof. Martin Koch\, Philipps-Universität Marburg\n\n
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140606_koch/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140606_koch/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
-UID:-4753130948278153458
-DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
- ng/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140704_bieling/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Ultrafast nano-optics: accessing correlation of stru
- cture\, function\, and dynamics of matter on its natural length and time s
- cales
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140411T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140411T164500
-UID:-5064078659962951578
-DESCRIPTION:Speaker: Prof. Markus Raschke\, University of Colorado Boulder
- \n\n<p>Structure\, function\, and dynamics of matter are the result of an 
- intricate interplay of its elementary excitations defined on femtosecond t
- ime and mesoscopic nanometer length scales. This gives rise to often compl
- ex structural phase behavior in soft matter as well as quantum phases in c
- orrelated electron materials with competing atomic scale short-range as we
- ll as mesoscopic nano-scale interactions. I will discuss our developments 
- and applications of new nano-optical spectroscopies to probe those interac
- tions providing microscopic insight into otherwise difficult to probe micr
- oscopic processes underlying the function of soft- and correlated matter. 
- Our approach is based on the combination of plasmonic and optical antenna 
- concepts with ultrafast and shaped laser pulses to achieve precise control
-  of an optical excitation on the nanometer-femtosecond scale. I will intro
- duce the enabling principles based on new regimes of light-matter interact
- ion in terms of impedance matching and near-field optical control of a qua
- ntum system.</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/ko
- lloquien/cens_seminar/140411_raschke/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140411_raschke/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T164500
-UID:-8359632473883710277
-DESCRIPTION:Speaker: Prof. Kevin Sivula\, École polytechnique fédérale 
- de Lausanne\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kol
- loquien/cens_seminar/140523_sivula/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140523_sivula/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
 UID:8479315814717742976
@@ -100,6 +36,30 @@ DESCRIPTION:Speaker: Prof. Cheemeng Tang\, University of California Davis\
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140627_tang/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T164500
+UID:4961246509760472187
+DESCRIPTION:Speaker: Prof. Shaul Mukamel\, University of California Irvine
+ \n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cen
+ s_seminar/140516_mukamel/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140516_mukamel/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140606T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140606T164500
+UID:8436015388895234433
+DESCRIPTION:Speaker: Prof. Martin Koch\, Philipps-Universität Marburg\n\n
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140606_koch/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140606_koch/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
@@ -115,14 +75,26 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140425T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140425T164500
-UID:-3870550423181749420
-DESCRIPTION:Speaker: Prof. Heiko Weber\, Friedrich-Alexander-Universität 
- Erlangen-Nürnberg\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
- aet/kolloquien/cens_seminar/140425_weber/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T164500
+UID:-8359632473883710277
+DESCRIPTION:Speaker: Prof. Kevin Sivula\, École polytechnique fédérale 
+ de Lausanne\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kol
+ loquien/cens_seminar/140523_sivula/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140523_sivula/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
+UID:-4753130948278153458
+DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
+ ng/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140425_weber/index.html
+ minar/140704_bieling/index.html
 END:VEVENT
 END:VCALENDAR
