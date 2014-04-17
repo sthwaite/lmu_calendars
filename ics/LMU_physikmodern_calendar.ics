@@ -2,6 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
+SUMMARY:Physik Modern: Kollektive Zellbewegung in künstlichen Mikrostrukt
+ uren - Die Physik zellulärer Materie
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140508T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140508T203000
+UID:-4642069332569840781
+DESCRIPTION:Speaker: Prof. Joachim Rädler\, LMU\, München\n\nDie Migrati
+ on von Zellverbänden ist von großer Bedeutung in der Entwicklungsbiologi
+ e\, Wundheilung und Krebsforschung. Aus Sicht der Physik weicher Materie s
+ tellt sich die Frage nach welchen Grundregeln sich Verbände von gleichart
+ igen Zellen raumzeitlich organisieren\, also nach einer Beschreibung der D
+ ynamik eines aktiven Vielteilchensystems. Mit Hilfe von Zeitraffverfahren 
+ kann die Kinematik von Zellmonolagen in künstlichen Umgebungen sehr genau
+  verfolgt werden. Die Analyse der Zellbewegung zeigt komplexe Flussfelder\
+ , die auf langen Zeitskalen als Wachstums- und Diffusionsprozess beschrieb
+ en werden können. Betrachtet man kleinere\, mesoskopische Systeme von mik
+ roskopisch strukturierten Gruppen von Zellen tauchen neuartige Phänomene\
+ , wie spontane Rotationen\, Oszillationen und stabile zelluläre Konstella
+ tionen auf. Durch Vergleich mit numerischen Simulationen lassen sich aus d
+ er Einzelzellanalyse Zell-Zell Interaktionen quantifizieren. Auch das Pote
+ ntial von chip-basierten Zellbeweglichkeitstests und Einzelzellplattformen
+  für diagnostische Zwecke soll diskutiert werden.\n\nhttp://www.physik.un
+ i-muenchen.de/aus_der_fakultaet/kolloquien/physik_modern/raedler/index.htm
+ l
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/raedler/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Physik Modern: Der Ursprung der kosmischen Elemente - Neue Zugäng
  e
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140626T191500
@@ -78,34 +107,5 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  modern/majorovits/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Physik Modern: Kollektive Zellbewegung in künstlichen Mikrostrukt
- uren - Die Physik zellulärer Materie
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140508T191500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140508T203000
-UID:-4642069332569840781
-DESCRIPTION:Speaker: Prof. Joachim Rädler\, LMU\, München\n\nDie Migrati
- on von Zellverbänden ist von großer Bedeutung in der Entwicklungsbiologi
- e\, Wundheilung und Krebsforschung. Aus Sicht der Physik weicher Materie s
- tellt sich die Frage nach welchen Grundregeln sich Verbände von gleichart
- igen Zellen raumzeitlich organisieren\, also nach einer Beschreibung der D
- ynamik eines aktiven Vielteilchensystems. Mit Hilfe von Zeitraffverfahren 
- kann die Kinematik von Zellmonolagen in künstlichen Umgebungen sehr genau
-  verfolgt werden. Die Analyse der Zellbewegung zeigt komplexe Flussfelder\
- , die auf langen Zeitskalen als Wachstums- und Diffusionsprozess beschrieb
- en werden können. Betrachtet man kleinere\, mesoskopische Systeme von mik
- roskopisch strukturierten Gruppen von Zellen tauchen neuartige Phänomene\
- , wie spontane Rotationen\, Oszillationen und stabile zelluläre Konstella
- tionen auf. Durch Vergleich mit numerischen Simulationen lassen sich aus d
- er Einzelzellanalyse Zell-Zell Interaktionen quantifizieren. Auch das Pote
- ntial von chip-basierten Zellbeweglichkeitstests und Einzelzellplattformen
-  für diagnostische Zwecke soll diskutiert werden.\n\nhttp://www.physik.un
- i-muenchen.de/aus_der_fakultaet/kolloquien/physik_modern/raedler/index.htm
- l
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- modern/raedler/index.html
 END:VEVENT
 END:VCALENDAR
