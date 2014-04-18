@@ -42,18 +42,18 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/bunster/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Higher-Spin Gravity and Higher-Spin 
- Black Holes in Three Dimensions
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T173000
-UID:5071318387590436402
-DESCRIPTION:Professor Marc Henneaux\, Brussels University\n\nhttp://www.ph
- ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/henneaux/
- index.html
+SUMMARY:Sommerfeld Theory Colloquium: Einstein and Quantum Mechanics: It
+ ’s Not What You Think
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T173000
+UID:-4227267242607171505
+DESCRIPTION:Professor A. Douglas Stone\, Yale University\, USA\n\nhttp://w
+ ww.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/ston
+ e/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/henneaux/index.html
+ loquium/stone/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: ASC-PhD-Colloquium: TBA
@@ -82,17 +82,17 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/efetov/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Einstein and Quantum Mechanics: It
- ’s Not What You Think
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140430T173000
-UID:-4227267242607171505
-DESCRIPTION:Professor A. Douglas Stone\, Yale University\, USA\n\nhttp://w
- ww.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/ston
- e/index.html
+SUMMARY:Sommerfeld Theory Colloquium: Higher-Spin Gravity and Higher-Spin 
+ Black Holes in Three Dimensions
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T173000
+UID:5071318387590436402
+DESCRIPTION:Professor Marc Henneaux\, Brussels University\n\nhttp://www.ph
+ ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/henneaux/
+ index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/stone/index.html
+ loquium/henneaux/index.html
 END:VEVENT
 END:VCALENDAR
