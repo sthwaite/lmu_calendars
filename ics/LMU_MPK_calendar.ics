@@ -2,18 +2,58 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Modeling interfaces in organic semico
- nductor devices
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T190000
-UID:-6715489411511663299
-DESCRIPTION:Speaker: Prof. Dr. Alessio Gagliardi (Fakultät für Elektrote
- chnik und Informationstechnik\, Technische Universität München)\n\n\n\nh
- ttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kollo
- quium/mpk_tum_6/index.html
+SUMMARY:Münchner Physik Kolloquium: DFTB+ – An approximate DFT method: 
+ applications to computational nanomaterials
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140428T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140428T190000
+UID:-4875248761610618073
+DESCRIPTION:Speaker: Prof. Dr. Thomas Frauenheim (Bremen Center for Comput
+ ational Materials Science\, Universität Bremen\, Bremen)\n\n\n\nhttp://ww
+ w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mp
+ k_tum_2/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_2/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Recent advances and future trends in 
+ medical computed tomography
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T190000
+UID:-8423201518420596662
+DESCRIPTION:Speaker: Dr. Thomas Koehler (Philips Technologie GmbH\, Forsch
+ ungslaboratorien\, Hamburg / Rudolf Diesel Industry Fellow\, TUM IAS)\n\n\
+ n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_k
+ olloquium/mpk_tum_4/index.html
 LOCATION:  Hörsaal 2 des Physik-Departments / TUM
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_6/index.html
+ kolloquium/mpk_tum_4/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Shape matters: linking physics and ge
+ ometry of materials
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140602T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140602T190000
+UID:-2056242759092705617
+DESCRIPTION:Speaker: Prof. Dr. Klaus Mecke (Institut für Theoretische Phy
+ sik\, Universität Erlangen-Nürnberg)\n\n\n\nhttp://www.physik.uni-muench
+ en.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lmu_7/index.html
+LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_7/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Dark matter and the LHC
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T190000
+UID:899060874678444190
+DESCRIPTION:Speaker: Prof. Dr. Jonathan L. Feng (Department of Physics and
+  Astronomy\, University of California\, Irvine\, USA)\n\n\n\nhttp://www.ph
+ ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lm
+ u_11/index.html
+LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_11/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Spin-orbitronics
@@ -29,20 +69,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_8/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: DFTB+ – An approximate DFT method: 
- applications to computational nanomaterials
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140428T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140428T190000
-UID:-4875248761610618073
-DESCRIPTION:Speaker: Prof. Dr. Thomas Frauenheim (Bremen Center for Comput
- ational Materials Science\, Universität Bremen\, Bremen)\n\n\n\nhttp://ww
- w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mp
- k_tum_2/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_2/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Quantum chromodynamics
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140630T171500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140630T190000
@@ -53,19 +79,6 @@ DESCRIPTION:Speaker: Prof. Dr. Andreas S. Kronfeld (Fermilab\, Batavia\, I
 LOCATION:  Hörsaal 2 des Physik-Departments / TUM
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_10/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Shape matters: linking physics and ge
- ometry of materials
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140602T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140602T190000
-UID:-2056242759092705617
-DESCRIPTION:Speaker: Prof. Dr. Klaus Mecke (Institut für Theoretische Phy
- sik\, Universität Erlangen-Nürnberg)\n\n\n\nhttp://www.physik.uni-muench
- en.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lmu_7/index.html
-LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_7/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Engineering the quantum computer: a c
@@ -82,17 +95,18 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_5/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Dark matter and the LHC
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T190000
-UID:899060874678444190
-DESCRIPTION:Speaker: Prof. Dr. Jonathan L. Feng (Department of Physics and
-  Astronomy\, University of California\, Irvine\, USA)\n\n\n\nhttp://www.ph
- ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lm
- u_11/index.html
-LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
+SUMMARY:Münchner Physik Kolloquium: Modeling interfaces in organic semico
+ nductor devices
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T190000
+UID:-6715489411511663299
+DESCRIPTION:Speaker: Prof. Dr. Alessio Gagliardi (Fakultät für Elektrote
+ chnik und Informationstechnik\, Technische Universität München)\n\n\n\nh
+ ttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kollo
+ quium/mpk_tum_6/index.html
+LOCATION:  Hörsaal 2 des Physik-Departments / TUM
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_11/index.html
+ kolloquium/mpk_tum_6/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: The Hubble constant in the era of pre
@@ -106,20 +120,6 @@ DESCRIPTION:Speaker: Prof. Dr. Lucas M. Macri (Texas A&M University\, Texa
 LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_9/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Recent advances and future trends in 
- medical computed tomography
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T190000
-UID:-8423201518420596662
-DESCRIPTION:Speaker: Dr. Thomas Koehler (Philips Technologie GmbH\, Forsch
- ungslaboratorien\, Hamburg / Rudolf Diesel Industry Fellow\, TUM IAS)\n\n\
- n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_k
- olloquium/mpk_tum_4/index.html
-LOCATION:  Hörsaal 2 des Physik-Departments / TUM
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_4/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: A brief history of computational astr
