@@ -46,18 +46,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
-UID:-4753130948278153458
-DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
- ng/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140704_bieling/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T164500
 UID:-8135871589049232093
@@ -70,27 +58,15 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
-UID:8479315814717742976
-DESCRIPTION:Speaker: Prof. Cheemeng Tang\, University of California Davis\
- n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
- _seminar/140627_tang/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
+UID:-4753130948278153458
+DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
+ ng/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140627_tang/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T164500
-UID:-8359632473883710277
-DESCRIPTION:Speaker: Prof. Kevin Sivula\, École polytechnique fédérale 
- de Lausanne\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kol
- loquien/cens_seminar/140523_sivula/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140523_sivula/index.html
+ minar/140704_bieling/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
@@ -115,5 +91,29 @@ DESCRIPTION:Speaker: Prof. Shaul Mukamel\, University of California Irvine
 LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140516_mukamel/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T164500
+UID:-8359632473883710277
+DESCRIPTION:Speaker: Prof. Kevin Sivula\, École polytechnique fédérale 
+ de Lausanne\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kol
+ loquien/cens_seminar/140523_sivula/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140523_sivula/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
+UID:8479315814717742976
+DESCRIPTION:Speaker: Prof. Cheemeng Tang\, University of California Davis\
+ n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
+ _seminar/140627_tang/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140627_tang/index.html
 END:VEVENT
 END:VCALENDAR
