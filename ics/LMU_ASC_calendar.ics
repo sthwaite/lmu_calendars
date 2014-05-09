@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140521T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140521T173000
-UID:-1306013768867939426
-DESCRIPTION:Professor Gabriele Travaglini\, Queen Mary University of Londo
- n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_ko
- lloquium/travaglini/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/travaglini/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Dynamics and critical velocity of mo
  bile impurities in superfluids
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
@@ -29,18 +16,17 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/kamenev/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: ASC-PhD-Colloquium: Transport and re
- al-time dynamics in ultra-cold atomic gases in optical lattices
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T173000
-UID:-1882919372069156213
-DESCRIPTION:Dr. Stephan Langer\, Pittsburgh University\, USA\n\nhttp://www
- .physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/langer
- /index.html
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140521T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140521T173000
+UID:-1306013768867939426
+DESCRIPTION:Professor Gabriele Travaglini\, Queen Mary University of Londo
+ n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_ko
+ lloquium/travaglini/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/langer/index.html
+ loquium/travaglini/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: A Closer Look at Black Holes
@@ -68,5 +54,19 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/henneaux/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: ASC-PhD-Colloquium: Transport and re
+ al-time dynamics in ultra-cold atomic gases in optical lattices
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140528T173000
+UID:-1882919372069156213
+DESCRIPTION:Dr. Stephan Langer\, Pittsburgh University\, USA\n\nhttp://www
+ .physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/langer
+ /index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/langer/index.html
 END:VEVENT
 END:VCALENDAR
