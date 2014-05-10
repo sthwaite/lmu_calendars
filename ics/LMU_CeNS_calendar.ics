@@ -3,6 +3,18 @@ VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
+UID:8479315814717742976
+DESCRIPTION:Speaker: Prof. Cheemeng Tang\, University of California Davis\
+ n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
+ _seminar/140627_tang/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140627_tang/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
 UID:-4753130948278153458
@@ -12,73 +24,6 @@ DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140704_bieling/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T164500
-UID:4961246509760472187
-DESCRIPTION:Speaker: Prof. Shaul Mukamel\, University of California Irvine
- \n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cen
- s_seminar/140516_mukamel/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140516_mukamel/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T164500
-UID:-8135871589049232093
-DESCRIPTION:Speaker: Dr. Claudia Huber\, TU München\n\n\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140613_huber
- /index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140613_huber/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Microscale Thermophoresis: Turning up the heat in dr
- ug discovery and basic research
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140509T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140509T164500
-UID:-6513859650943247917
-DESCRIPTION:Speaker: Dr. Dennis Breitsprecher\, NanoTemper Technologies\n\
- n<p>MicroScale Thermophoresis (MST) is an exceptionally powerful technique
-  to quantify biomolecular interactions. It is based on thermophoresis\, th
- e directed movement of molecules in a temperature gradient\, which strongl
- y depends on a variety of molecular properties such as size\, charge\, hyd
- ration shell and conformation. Thus\, this technique is highly sensitive t
- o virtually any change in molecular properties\, allowing for a precise qu
- antification of molecular events independent of the size or nature of the 
- investigated specimen. Recent progress and developments in MST technology 
- and new MST applications beyond standard biomolecular interaction studies 
- will be presented\, spanning a range from straight-forward determination o
- f picomolar dissociation constants (<i>Kds</i>) to the analysis of thermod
- ynamic parameters of interactions as well as monitoring unfolding mechanis
- ms of proteins. In addition\, MST was successfully used in an in-house fra
- gment screen at NanoTemper Technologies\, using the newly developed NT.Aut
- omated instrument for high-throughput applications. In close collaboration
-  with Sanofi R&amp\;D\, a library containing 193 pre-selected fragments wa
- s screened for their interaction with the kinase MEK1. More than 70 binder
- s with dissociation constants ranging from the low µM to low mM range wer
- e identified. Importantly\, 7 out of 8 previously determined hits were amo
- ng the top-fifteen fragments from the MST-ranking and yielded x-ray co-cry
- stal structures with MEK1. Thus\, high-throughput binding analysis by MST 
- is a valuable tool that compliments qualitative screening methods and circ
- umvents false-positive results which are commonly picked up by other bioph
- ysical screening methods. In addition to advantages such as little sample 
- consumption (4 µl of sample per data point\, only a few picogram of targe
- t protein are required for the entire screening)\, easy handling\, rapid a
- ssay optimization and straight-forward data analysis\, MST moreover provid
- es information about different binding sites\, protein stability and aggre
- gation. Thus\, high-throughput MST analysis is a perfect assed in both\, m
- odern drug discovery processes as well as basic research.</p>\n\nhttp://ww
- w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140509_
- breitsprecher/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140509_breitsprecher/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Robust and inexpensive photoelectrodes for solar wat
@@ -108,15 +53,15 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
-UID:8479315814717742976
-DESCRIPTION:Speaker: Prof. Cheemeng Tang\, University of California Davis\
- n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
- _seminar/140627_tang/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T164500
+UID:-8135871589049232093
+DESCRIPTION:Speaker: Dr. Claudia Huber\, TU München\n\n\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140613_huber
+ /index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140627_tang/index.html
+ minar/140613_huber/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
@@ -129,5 +74,17 @@ DESCRIPTION:Speaker: Prof. Martin Koch\, Philipps-Universität Marburg\n\n
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140606_koch/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140516T164500
+UID:4961246509760472187
+DESCRIPTION:Speaker: Prof. Shaul Mukamel\, University of California Irvine
+ \n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cen
+ s_seminar/140516_mukamel/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140516_mukamel/index.html
 END:VEVENT
 END:VCALENDAR
