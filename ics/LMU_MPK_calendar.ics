@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Recent advances and future trends in 
- medical computed tomography
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T190000
-UID:-8423201518420596662
-DESCRIPTION:Speaker: Dr. Thomas Koehler (Philips Technologie GmbH\, Forsch
- ungslaboratorien\, Hamburg / Rudolf Diesel Industry Fellow\, TUM IAS)\n\n\
- n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_k
- olloquium/mpk_tum_4/index.html
-LOCATION:  Hörsaal 2 des Physik-Departments / TUM
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_4/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Dark matter and the LHC
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T171500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T190000
@@ -27,6 +13,33 @@ DESCRIPTION:Speaker: Prof. Dr. Jonathan L. Feng (Department of Physics and
 LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_11/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: The Hubble constant in the era of pre
+ cision cosmology
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140623T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140623T190000
+UID:2048513586855911177
+DESCRIPTION:Speaker: Prof. Dr. Lucas M. Macri (Texas A&M University\, Texa
+ s\, USA)\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloq
+ uien/physik_kolloquium/mpk_lmu_9/index.html
+LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_9/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Engineering the quantum computer: a c
+ ase study of the circulator
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140519T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140519T190000
+UID:5406847618021482360
+DESCRIPTION:Speaker: Prof. Dr. David DiVincenzo (JARA Institute for Quantu
+ m Information\, RWTH Aachen and Forschungszentrum Jülich)\n\n\n\nhttp://w
+ ww.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/m
+ pk_lmu_5/index.html
+LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_5/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Quantum chromodynamics
@@ -41,17 +54,32 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_10/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: The Hubble constant in the era of pre
- cision cosmology
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140623T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140623T190000
-UID:2048513586855911177
-DESCRIPTION:Speaker: Prof. Dr. Lucas M. Macri (Texas A&M University\, Texa
- s\, USA)\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloq
- uien/physik_kolloquium/mpk_lmu_9/index.html
-LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
+SUMMARY:Münchner Physik Kolloquium: Recent advances and future trends in 
+ medical computed tomography
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140512T190000
+UID:-8423201518420596662
+DESCRIPTION:Speaker: Dr. Thomas Koehler (Philips Technologie GmbH\, Forsch
+ ungslaboratorien\, Hamburg / Rudolf Diesel Industry Fellow\, TUM IAS)\n\n\
+ n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_k
+ olloquium/mpk_tum_4/index.html
+LOCATION:  Hörsaal 2 des Physik-Departments / TUM
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_9/index.html
+ kolloquium/mpk_tum_4/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Modeling interfaces in organic semico
+ nductor devices
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T190000
+UID:-6715489411511663299
+DESCRIPTION:Speaker: Prof. Dr. Alessio Gagliardi (Fakultät für Elektrote
+ chnik und Informationstechnik\, Technische Universität München)\n\n\n\nh
+ ttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kollo
+ quium/mpk_tum_6/index.html
+LOCATION:  Hörsaal 2 des Physik-Departments / TUM
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_6/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Spin-orbitronics
@@ -78,33 +106,5 @@ DESCRIPTION:Speaker: Prof. Dr. Klaus Mecke (Institut für Theoretische Phy
 LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_7/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Modeling interfaces in organic semico
- nductor devices
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T190000
-UID:-6715489411511663299
-DESCRIPTION:Speaker: Prof. Dr. Alessio Gagliardi (Fakultät für Elektrote
- chnik und Informationstechnik\, Technische Universität München)\n\n\n\nh
- ttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kollo
- quium/mpk_tum_6/index.html
-LOCATION:  Hörsaal 2 des Physik-Departments / TUM
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_6/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Engineering the quantum computer: a c
- ase study of the circulator
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140519T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140519T190000
-UID:5406847618021482360
-DESCRIPTION:Speaker: Prof. Dr. David DiVincenzo (JARA Institute for Quantu
- m Information\, RWTH Aachen and Forschungszentrum Jülich)\n\n\n\nhttp://w
- ww.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/m
- pk_lmu_5/index.html
-LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_5/index.html
 END:VEVENT
 END:VCALENDAR
