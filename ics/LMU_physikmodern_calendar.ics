@@ -2,6 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
+SUMMARY:Physik Modern: Das Echo des Urknalls in Gravitationswellen
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140710T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140710T203000
+UID:2300589135646195156
+DESCRIPTION:Speaker: Dr. Fabian Schmidt (MPI für Astrophysik\, München)\
+ n\nWoher stammen die Strukturen\, die wir im Universum heute sehen - Galax
+ ien\, Sterne\, Planeten ? Das momentan favorisierte Szenario ist eine Epis
+ ode extrem schneller Ausdehnung im sehr frühen Universum\, die Inflation 
+ genannt wird. Quantenfluktuationen wurden durch die Expansion auf große S
+ kalen ausgedehnt und dienten später als "Saat" für die Bildung von Struk
+ turen im Universum. Falls Inflation tatsächlich stattgefunden hat\, dann 
+ wurden auch Quantenfluktuationen der Gravitation selbst produziert\, die h
+ eute theoretisch als ein Hintergrund von langwelligen Gravitationswellen b
+ eobachtbar sein sollten. Vor wenigen Wochen hat das BICEP2-Experiment Hinw
+ eise auf diese Gravitationswellen im kosmischen Mikrowellenhintegrund ver
+ öffentlicht. Sollte sich diese Entdeckung bewahrheiten\, hätte sie enorm
+ e Konsequenzen für das Weltbild der Physik. Nach einem Überblick über I
+ nflation und Gravitationswellen sollen diese Messungen und ihre Konsequenz
+ en im Vortrag diskutiert werden.\n\nhttp://www.physik.uni-muenchen.de/aus_
+ der_fakultaet/kolloquien/physik_modern/majorovits/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/majorovits/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Physik Modern: Der Ursprung der kosmischen Elemente - Neue Zugäng
  e
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140626T191500
@@ -52,31 +78,5 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  modern/van_hemmen/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Physik Modern: Das Echo des Urknalls in Gravitationswellen
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140710T191500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140710T203000
-UID:2300589135646195156
-DESCRIPTION:Speaker: Dr. Fabian Schmidt (MPI für Astrophysik\, München)\
- n\nWoher stammen die Strukturen\, die wir im Universum heute sehen - Galax
- ien\, Sterne\, Planeten ? Das momentan favorisierte Szenario ist eine Epis
- ode extrem schneller Ausdehnung im sehr frühen Universum\, die Inflation 
- genannt wird. Quantenfluktuationen wurden durch die Expansion auf große S
- kalen ausgedehnt und dienten später als "Saat" für die Bildung von Struk
- turen im Universum. Falls Inflation tatsächlich stattgefunden hat\, dann 
- wurden auch Quantenfluktuationen der Gravitation selbst produziert\, die h
- eute theoretisch als ein Hintergrund von langwelligen Gravitationswellen b
- eobachtbar sein sollten. Vor wenigen Wochen hat das BICEP2-Experiment Hinw
- eise auf diese Gravitationswellen im kosmischen Mikrowellenhintegrund ver
- öffentlicht. Sollte sich diese Entdeckung bewahrheiten\, hätte sie enorm
- e Konsequenzen für das Weltbild der Physik. Nach einem Überblick über I
- nflation und Gravitationswellen sollen diese Messungen und ihre Konsequenz
- en im Vortrag diskutiert werden.\n\nhttp://www.physik.uni-muenchen.de/aus_
- der_fakultaet/kolloquien/physik_modern/majorovits/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- modern/majorovits/index.html
 END:VEVENT
 END:VCALENDAR
