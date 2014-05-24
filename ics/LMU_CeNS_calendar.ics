@@ -2,30 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Robust and inexpensive photoelectrodes for solar wat
- er splitting tandem cells
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140523T164500
-UID:190782497412059832
-DESCRIPTION:Speaker: Prof. Kevin Sivula\, École polytechnique fédérale 
- de Lausanne\n\n<p>A device that can convert solar energy into a chemical f
- uel with good efficiency while also offering high stability and the capabi
- lity to be constructed with widely available materials using inexpensive p
- rocessing techniques is urgently needed. A practical and inexpensive devic
- e could be constructed with an n-type photoanode in tandem with a p-type p
- hotocathode. In this presentation I will present our progress in the devel
- opment of solution-processed photoelectrodes and their application toward 
- overall photoelectrochemical water splitting tandem cells. Specifically\, 
- progress with a promising photoanode material\, Fe<sub>2</sub>O<sub>3</sub
- >\, and its application in a photoanode/dye sensitized solar cell tandem d
- evice will be described. In addition\, I will present progress towards the
-  realization of stable and highly active photocathode materials based on c
- opper and their application in water splitting cells.</p>\n\nhttp://www.ph
- ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140523_sivu
- la/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
+UID:-4753130948278153458
+DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
+ ng/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140523_sivula/index.html
+ minar/140704_bieling/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
+UID:8479315814717742976
+DESCRIPTION:Speaker: Prof. Cheemeng Tang\, University of California Davis\
+ n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
+ _seminar/140627_tang/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140627_tang/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
@@ -50,29 +48,5 @@ DESCRIPTION:Speaker: Prof. Martin Koch\, Philipps-Universität Marburg\n\n
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140606_koch/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
-UID:-4753130948278153458
-DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
- ng/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140704_bieling/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
-UID:8479315814717742976
-DESCRIPTION:Speaker: Prof. Cheemeng Tang\, University of California Davis\
- n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens
- _seminar/140627_tang/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140627_tang/index.html
 END:VEVENT
 END:VCALENDAR

@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Dark matter and the LHC
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T190000
-UID:899060874678444190
-DESCRIPTION:Speaker: Prof. Dr. Jonathan L. Feng (Department of Physics and
-  Astronomy\, University of California\, Irvine\, USA)\n\n\n\nhttp://www.ph
- ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lm
- u_11/index.html
-LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_11/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Quantum chromodynamics
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140630T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140630T190000
-UID:8388898265399875963
-DESCRIPTION:Speaker: Prof. Dr. Andreas S. Kronfeld (Fermilab\, Batavia\, I
- llinois\, USA)\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/
- kolloquien/physik_kolloquium/mpk_tum_10/index.html
-LOCATION:  Hörsaal 2 des Physik-Departments / TUM
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_10/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Modeling interfaces in organic semico
  nductor devices
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140526T171500
@@ -78,5 +53,30 @@ DESCRIPTION:Speaker: Prof. Dr. Klaus Mecke (Institut für Theoretische Phy
 LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_7/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Quantum chromodynamics
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140630T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140630T190000
+UID:8388898265399875963
+DESCRIPTION:Speaker: Prof. Dr. Andreas S. Kronfeld (Fermilab\, Batavia\, I
+ llinois\, USA)\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/
+ kolloquien/physik_kolloquium/mpk_tum_10/index.html
+LOCATION:  Hörsaal 2 des Physik-Departments / TUM
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_10/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Dark matter and the LHC
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140707T190000
+UID:899060874678444190
+DESCRIPTION:Speaker: Prof. Dr. Jonathan L. Feng (Department of Physics and
+  Astronomy\, University of California\, Irvine\, USA)\n\n\n\nhttp://www.ph
+ ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lm
+ u_11/index.html
+LOCATION:  Hörsaal H 030 der Fakultät für Physik / LMU
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_11/index.html
 END:VEVENT
 END:VCALENDAR
