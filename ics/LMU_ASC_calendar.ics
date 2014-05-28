@@ -16,20 +16,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/langer/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Higher-Spin Gravity and Higher-Spin 
- Black Holes in Three Dimensions
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T173000
-UID:5071318387590436402
-DESCRIPTION:Professor Marc Henneaux\, Brussels University\n\nhttp://www.ph
- ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/henneaux/
- index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/henneaux/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
@@ -44,18 +30,31 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/goobar/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Dynamics and critical velocity of mo
- bile impurities in superfluids
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T113000
-UID:1862774062268239046
-DESCRIPTION:Professor Alex Kamenev\, Minnesota University\, USA\n\nhttp://
- www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/kam
- enev/index.html
+SUMMARY:Sommerfeld Theory Colloquium: Higher-Spin Gravity and Higher-Spin 
+ Black Holes in Three Dimensions
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140604T173000
+UID:5071318387590436402
+DESCRIPTION:Professor Marc Henneaux\, Brussels University\n\nhttp://www.ph
+ ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/henneaux/
+ index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/kamenev/index.html
+ loquium/henneaux/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: A Closer Look at Black Holes
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140618T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140618T173000
+UID:-3443695355183255332
+DESCRIPTION:Professor Avi Loeb\, Astronomy Dept.\, Harvard University\, US
+ A\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_ko
+ lloquium/loeb/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/loeb/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Electric-magnetic Duality and Space-
@@ -72,16 +71,17 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/bunster/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: A Closer Look at Black Holes
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140618T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140618T173000
-UID:-3443695355183255332
-DESCRIPTION:Professor Avi Loeb\, Astronomy Dept.\, Harvard University\, US
- A\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_ko
- lloquium/loeb/index.html
+SUMMARY:Sommerfeld Theory Colloquium: Dynamics and critical velocity of mo
+ bile impurities in superfluids
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T113000
+UID:1862774062268239046
+DESCRIPTION:Professor Alex Kamenev\, Minnesota University\, USA\n\nhttp://
+ www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/kam
+ enev/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/loeb/index.html
+ loquium/kamenev/index.html
 END:VEVENT
 END:VCALENDAR
