@@ -16,18 +16,18 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/henneaux/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Electric-magnetic Duality and Space-
- time Structure
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140709T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140709T173000
-UID:8383847478222070540
-DESCRIPTION:Professor Claudio Bunster\, Centro de Estudios Científicos (C
- ECs)\, Valdivia\, Chile\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakul
- taet/kolloquien/asc_kolloquium/bunster/index.html
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
+UID:-8694061325322541146
+DESCRIPTION:Professor Ariel Goobar\, The Oskar Klein Centre for Cosmoparti
+ cle Physics\, Department of Physics\, Stockholm University\n\nhttp://www.p
+ hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/goobar/i
+ ndex.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/bunster/index.html
+ loquium/goobar/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: A Closer Look at Black Holes
@@ -43,20 +43,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/loeb/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
-UID:-8694061325322541146
-DESCRIPTION:Professor Ariel Goobar\, The Oskar Klein Centre for Cosmoparti
- cle Physics\, Department of Physics\, Stockholm University\n\nhttp://www.p
- hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/goobar/i
- ndex.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/goobar/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Dynamics and critical velocity of mo
  bile impurities in superfluids
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
@@ -69,5 +55,19 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/kamenev/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Electric-magnetic Duality and Space-
+ time Structure
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140709T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140709T173000
+UID:8383847478222070540
+DESCRIPTION:Professor Claudio Bunster\, Centro de Estudios Científicos (C
+ ECs)\, Valdivia\, Chile\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakul
+ taet/kolloquien/asc_kolloquium/bunster/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/bunster/index.html
 END:VEVENT
 END:VCALENDAR
