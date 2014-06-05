@@ -24,6 +24,18 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
+UID:-4753130948278153458
+DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
+ sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
+ ng/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140704_bieling/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
 UID:8479315814717742976
@@ -45,17 +57,5 @@ DESCRIPTION:Speaker: Dr. Claudia Huber\, TU München\n\n\n\nhttp://www.phy
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140613_huber/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
-UID:-4753130948278153458
-DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n\n\nhttp://www.phy
- sik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/140704_bieli
- ng/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140704_bieling/index.html
 END:VEVENT
 END:VCALENDAR
