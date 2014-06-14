@@ -15,6 +15,20 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/loeb/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Dynamics and critical velocity of mo
+ bile impurities in superfluids
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T113000
+UID:1862774062268239046
+DESCRIPTION:Professor Alex Kamenev\, Minnesota University\, USA\n\nhttp://
+ www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/kam
+ enev/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/kamenev/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Electric-magnetic Duality and Space-
  time Structure
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140709T161500
@@ -41,19 +55,5 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/goobar/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Dynamics and critical velocity of mo
- bile impurities in superfluids
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T101500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140718T113000
-UID:1862774062268239046
-DESCRIPTION:Professor Alex Kamenev\, Minnesota University\, USA\n\nhttp://
- www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/kam
- enev/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/kamenev/index.html
 END:VEVENT
 END:VCALENDAR
