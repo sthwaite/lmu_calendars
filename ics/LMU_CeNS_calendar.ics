@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: On the Way to the Origin of Life: Surface catalyzed 
- formation of biomolecules under primordial conditions
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140613T164500
-UID:-639455378630925645
-DESCRIPTION:Speaker: Dr. Claudia Huber\, TU München\n\n<p>A possible chem
- oautotrophic origin of life at volcanic\, hydrothermal settings is introdu
- ced. These settings are characterized by a high content of metal centers\,
-  such as iron\, nickel and cobalt. Volcanic exhalations are a permanent so
- urce for inorganic gases like hydrogen sulfide\, hydrogen cyanide\, ammoni
- a\, carbon monoxide\, carbon dioxide and more. Chemical reactions like the
-  formation of pyrite from iron sulfide or the water gas shift reaction pro
- vide enough energy to promote carbon fixation and reductive reactions whic
- h are able to form important bio molecules for the origin of life.</p>\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/140613_huber/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140613_huber/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: The mechanobiochemistry of motile actin networks
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
