@@ -2,6 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
+SUMMARY:CeNS Seminar: The engineering of synthetic biological systems by h
+ arnessing functioning principles of natural cells
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
+UID:845323686864195202
+DESCRIPTION:Speaker: Prof. Cheemeng Tan\, University of California Davis\n
+ \n<p>Synthetic biology is a multi-disciplinary field\, which integrates un
+ derstanding in biology with principles from engineering\, physics\, and ch
+ emistry for the design and creation of new biologically-relevant systems. 
+ Synthetic biology has made tremendous recent strides in engineering synthe
+ tic cellular systems using minimal cell components\, creating an experimen
+ tal platform for characterizing the behavior of isolated cellular modules 
+ and a form of biotechnology for the controlled operation of synthetic cell
+ s. The robustness and efficiency of these systems are nonetheless challeng
+ ing to control\, in part because a synthetic gene circuit is often enginee
+ red by focusing only on genetic control elements. Here\, I demonstrate how
+  non-genetic control elements\, including host growth rates and molecular 
+ crowding\, can lead to emergent dynamics of synthetic  biological systems
+ . My work has implications for efficient and robust control of both synthe
+ tic and natural cellular circuits and underscores the critical need to acc
+ ount for non-genetic control elements when engineering gene circuits. In a
+ ddition\, my work establishes a foundation towards integrating synthetic c
+ ellular components of biological circuits and artificial cells for biotech
+ nological applications.</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_f
+ akultaet/kolloquien/cens_seminar/140627_tan/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/140627_tan/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CeNS Seminar: The mechanobiochemistry of motile actin networks
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140704T164500
@@ -35,35 +65,5 @@ DESCRIPTION:Speaker: Dr. Peter Bieling\, UC Berkeley\n\n<p>Branched actin
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/140704_bieling/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: The engineering of synthetic biological systems by h
- arnessing functioning principles of natural cells
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140627T164500
-UID:845323686864195202
-DESCRIPTION:Speaker: Prof. Cheemeng Tan\, University of California Davis\n
- \n<p>Synthetic biology is a multi-disciplinary field\, which integrates un
- derstanding in biology with principles from engineering\, physics\, and ch
- emistry for the design and creation of new biologically-relevant systems. 
- Synthetic biology has made tremendous recent strides in engineering synthe
- tic cellular systems using minimal cell components\, creating an experimen
- tal platform for characterizing the behavior of isolated cellular modules 
- and a form of biotechnology for the controlled operation of synthetic cell
- s. The robustness and efficiency of these systems are nonetheless challeng
- ing to control\, in part because a synthetic gene circuit is often enginee
- red by focusing only on genetic control elements. Here\, I demonstrate how
-  non-genetic control elements\, including host growth rates and molecular 
- crowding\, can lead to emergent dynamics of synthetic  biological systems
- . My work has implications for efficient and robust control of both synthe
- tic and natural cellular circuits and underscores the critical need to acc
- ount for non-genetic control elements when engineering gene circuits. In a
- ddition\, my work establishes a foundation towards integrating synthetic c
- ellular components of biological circuits and artificial cells for biotech
- nological applications.</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_f
- akultaet/kolloquien/cens_seminar/140627_tan/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/140627_tan/index.html
 END:VEVENT
 END:VCALENDAR
