@@ -16,20 +16,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/kamenev/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Searching for New Forces Using Torsi
- on Pendula
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140723T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140723T173000
-UID:-1807070852207638808
-DESCRIPTION:Professor William Terrano\, Washington University\, Seattle\, 
- USA\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_
- kolloquium/terrano/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/terrano/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
@@ -42,5 +28,19 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/goobar/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Searching for New Forces Using Torsi
+ on Pendula
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20140723T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20140723T173000
+UID:-1807070852207638808
+DESCRIPTION:Professor William Terrano\, Washington University\, Seattle\, 
+ USA\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_
+ kolloquium/terrano/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/terrano/index.html
 END:VEVENT
 END:VCALENDAR
