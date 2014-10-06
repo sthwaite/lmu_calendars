@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
-UID:-8694061325322541146
-DESCRIPTION:Professor Ariel Goobar\, The Oskar Klein Centre for Cosmoparti
- cle Physics\, Department of Physics\, Stockholm University\n\nhttp://www.p
- hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/goobar/i
- ndex.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/goobar/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Higher Spin --- CFT duality
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141008T161500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141008T173000
@@ -39,5 +25,19 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/weisz/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
+UID:-8694061325322541146
+DESCRIPTION:Professor Ariel Goobar\, The Oskar Klein Centre for Cosmoparti
+ cle Physics\, Department of Physics\, Stockholm University\n\nhttp://www.p
+ hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/goobar/i
+ ndex.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/goobar/index.html
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kaleo//-//
+BEGIN:VEVENT
+SUMMARY:Physik Modern: Kernfusion - die Energiequelle der Sterne auf die E
+ rde holen
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141016T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141016T203000
+UID:3915102252558295717
+DESCRIPTION:Speaker: Prof. Hartmut Zohm (MPI für Plasmaphysik)\n\nDie Ver
+ schmelzung leichter Atomkerne ist die Energiequelle der Sterne. Um diesen 
+ Prozess auf der Erde nutzbar zu machen müssen im Labor ähnliche Temperat
+ uren wie im Sonneninneren erzeugt werden. Obwohl dies schon seit einiger Z
+ eit verläßlich gelingt\, ist der Schritt zur praktikablen Energiegewinnu
+ ng noch weit. Der Vortrag zeigt den Fortschritt bei der Kernfusionsforschu
+ ng mit magnetischem Plasmaeinschluss auf und diskutiert dabei die Rolle de
+ r Großexperimente ITER und W7-X von denen die Fusionsforscher sich entsch
+ eidende Beiträge zur Lösung dieses Problems erwarten.\n\nhttp://www.phys
+ ik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_modern/zohm/index.h
+ tml
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/zohm/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physik Modern: Gammastrahlenastronomie mit MAGIC und CTA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141106T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141106T203000
+UID:-4120145578680440452
+DESCRIPTION:Speaker: Dr. Thomas Schweizer (MPI für Physik)\n\nDie Gammast
+ rahlenastronomie mit Cherenkov-Teleskopen ist ein neuer\, sehr erfolgreich
+ er und auch sehr schnell wachsender Zweig in der astrophysikalischen Forsc
+ hung. Gammastrahlung ist die höchstenergetische Strahlung im elektromagne
+ tischen Sprektrum und wird bei den energiereichsten und gewalttätigsten k
+ osmischen Ereignissen erzeugt. Sie wird emittiert von Supernova-Überreste
+ n\, in Jets von supermassiven schwarzen Löchern in den Zentren von Galaxi
+ en\, von schnell rotierenden Neutronensternen\, gennant Pulsare\, oder auc
+ h bei der Kollission zweier Neutronensterne. Sehr aufregende Beobachtungen
+  und Erkenntnisse wurden mit der jetzigen Generation von Cherenkov-Telesko
+ pen MAGIC\, VERITAS und H.E.S.S. gemacht. Viele Fragen bleiben offen. Eine
+  der zentralen bis heute nicht zufriendenstellend geklärten Fragen ist di
+ e nach dem Ursprung der kosmischen Strahlen\, welche von Victor Hess 1911 
+ bei einem Ballonexperiment entdeckt wurde. In diesem Vortrag werden die in
+ teressantesten Resultate des MAGIC-Experimentes besprochen. Es wird auch d
+ as zukünftige CTA Gammastrahlen-Observatorium vorgestellt\, ein Grossproj
+ ekt an dem mehr als tausend Physiker in mehr als hundert Instituten mitarb
+ eiten.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/p
+ hysik_modern/schweizer/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/schweizer/index.html
+END:VEVENT
+END:VCALENDAR
