@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Friction and Adhesion in the Nanoworl
- d
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141013T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141013T190000
-UID:-1846819931593206786
-DESCRIPTION:Speaker: Prof. Dr. Thorsten Hugel (Institute of Physical Chemi
- stry\, University of Freiburg)\n\n\n\nhttp://www.physik.uni-muenchen.de/au
- s_der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_1/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_1/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Spin-orbitronics\, a new direction fo
- r spintronics
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141110T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141110T190000
-UID:5484965510284654178
-DESCRIPTION:Speaker: Prof. Dr. Albert Fert\,\nNobelpreis für Physik 2007\
- n(Unité Mixte de Physique CNRS-Thales\, Palaiseau and\nUniversité Paris-
- Sud\, France)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet
- /kolloquien/physik_kolloquium/mpk_tum_5/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_5/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Ultracold atomic Fermi gases
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141103T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141103T190000
-UID:4990508269934339096
-DESCRIPTION:Speaker: Prof. Dr. Michael Köhl (Alexander-von-Humboldt Profe
- ssor\, Physikalisches Institut\, Universität Bonn)\n\n\n\n\nhttp://www.ph
- ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lm
- u_4/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_4/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Materials properties controlled by mi
  crostructure and external fields
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T171500
@@ -56,60 +15,6 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_12/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Quantum Optomechanics - a road to gra
- vity?
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141215T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141215T190000
-UID:7015657539246876225
-DESCRIPTION:Speaker: Prof. Dr. Markus Aspelmeyer (University of Vienna\, A
- ustria)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kollo
- quien/physik_kolloquium/mpk_lmu_10/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_10/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T190000
-UID:2573246288288617675
-DESCRIPTION:Speaker: Prof. Dr. Stuart S.P. Parkin (Max Planck Institute fo
- r Microstructure Physics\, Halle\, Germany / IBM Research – Almaden\, Ca
- lifornia\, USA )\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
- aet/kolloquien/physik_kolloquium/mpk_tum_11/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_11/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Is the wave function in one-to-one co
- rrespondence with reality?
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T190000
-UID:3136403542664180192
-DESCRIPTION:Speaker: Prof. Dr. Renato Renner (ETH Zürich)\n\n\n\n\nhttp:/
- /www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium
- /mpk_lmu_6/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_6/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Dark matter and Galaxy formation
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T190000
-UID:-8684928917126277615
-DESCRIPTION:Speaker: Prof. Dr. Francoise Combes (Observatoire de Paris\, L
- ERMA)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
- ien/physik_kolloquium/mpk_lmu_8/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_8/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Probing the mechanical properties\, i
@@ -126,6 +31,59 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_9/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Spin-orbitronics\, a new direction fo
+ r spintronics
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141110T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141110T190000
+UID:5484965510284654178
+DESCRIPTION:Speaker: Prof. Dr. Albert Fert\,\nNobelpreis für Physik 2007\
+ n(Unité Mixte de Physique CNRS-Thales\, Palaiseau and\nUniversité Paris-
+ Sud\, France)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet
+ /kolloquien/physik_kolloquium/mpk_tum_5/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_5/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Friction and Adhesion in the Nanoworl
+ d
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141013T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141013T190000
+UID:-1846819931593206786
+DESCRIPTION:Speaker: Prof. Dr. Thorsten Hugel (Institute of Physical Chemi
+ stry\, University of Freiburg)\n\n\n\nhttp://www.physik.uni-muenchen.de/au
+ s_der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_1/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_1/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Dark matter and Galaxy formation
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T190000
+UID:-8684928917126277615
+DESCRIPTION:Speaker: Prof. Dr. Francoise Combes (Observatoire de Paris\, L
+ ERMA)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
+ ien/physik_kolloquium/mpk_lmu_8/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_8/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T190000
+UID:2573246288288617675
+DESCRIPTION:Speaker: Prof. Dr. Stuart S.P. Parkin (Max Planck Institute fo
+ r Microstructure Physics\, Halle\, Germany / IBM Research – Almaden\, Ca
+ lifornia\, USA )\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
+ aet/kolloquien/physik_kolloquium/mpk_tum_11/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_11/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Non-relativistic effective field theo
  ries of QCD and QED
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141124T171500
@@ -139,17 +97,46 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_7/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Structurally disordered materials: fr
- om fundamental physics to applications
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T190000
-UID:-1836420402310172672
-DESCRIPTION:Speaker: Prof. Dr. Alessio Zaccone (Physik-Department\, Techni
- sche Universität München)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus
- _der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_3/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+SUMMARY:Münchner Physik Kolloquium: Is the wave function in one-to-one co
+ rrespondence with reality?
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T190000
+UID:3136403542664180192
+DESCRIPTION:Speaker: Prof. Dr. Renato Renner (ETH Zürich)\n\n\n\n\nhttp:/
+ /www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium
+ /mpk_lmu_6/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_3/index.html
+ kolloquium/mpk_lmu_6/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Quantum Optomechanics - a road to gra
+ vity?
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141215T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141215T190000
+UID:7015657539246876225
+DESCRIPTION:Speaker: Prof. Dr. Markus Aspelmeyer (University of Vienna\, A
+ ustria)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kollo
+ quien/physik_kolloquium/mpk_lmu_10/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_10/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Ultracold atomic Fermi gases
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141103T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141103T190000
+UID:4990508269934339096
+DESCRIPTION:Speaker: Prof. Dr. Michael Köhl (Alexander-von-Humboldt Profe
+ ssor\, Physikalisches Institut\, Universität Bonn)\n\n\n\n\nhttp://www.ph
+ ysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lm
+ u_4/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_4/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: The puzzling Higgs: physics beyond th
@@ -164,5 +151,18 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_2/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Structurally disordered materials: fr
+ om fundamental physics to applications
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T190000
+UID:-1836420402310172672
+DESCRIPTION:Speaker: Prof. Dr. Alessio Zaccone (Physik-Department\, Techni
+ sche Universität München)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus
+ _der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_3/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_3/index.html
 END:VEVENT
 END:VCALENDAR

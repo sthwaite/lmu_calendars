@@ -35,31 +35,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141121_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T164500
-UID:-5175689120931383380
-DESCRIPTION:Speaker: Dr. Bernhard Urbaszek\, Laboratory of Physics and Che
- mistry of Nano-Objects (INSA-CNRS-UPS)\, Toulouse\n\n\n\nhttp://www.physik
- .uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/141114_urbaszek
- /index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141114_urbaszek/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
-UID:3468377130422958441
-DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/150109_giessen/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150109_giessen/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
@@ -69,40 +44,6 @@ DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/150130_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
-UID:231553464786158594
-DESCRIPTION:Speaker: Prof. Leif Hammarström\, Uppsala Universitet\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/141212_hammarstroem/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141212_hammarstroem/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
-UID:4677159742953500153
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150123_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
@@ -119,6 +60,29 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
+UID:4677159742953500153
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150123_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
+UID:231553464786158594
+DESCRIPTION:Speaker: Prof. Leif Hammarström\, Uppsala Universitet\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/141212_hammarstroem/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141212_hammarstroem/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
 UID:5366503179643643110
@@ -130,23 +94,27 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141205_strunk/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Light and slavery: driving (photo) chemical dynamics
-  for selective imaging and energy conversion in chemical networks
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141024T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141024T164500
-UID:-5611173903741859939
-DESCRIPTION:Speaker: Dr. Ludovic Jullien\, Laboratoire P.A.S.T.E.U.R.\, EN
- S/CNRS/UMPC\, Paris\n\n<p>Light is a flexible trigger to drive the kinetic
- s of photochemical reactions with favorable spatiotemporal resolution. Upo
- n applying appropriate temporal and spatial patterns of illumination\, kin
- etic control of reactive processes can permit to highly selectively addres
- s a targeted photoactive probe in a mixture of interfering species<sup>1\,
- 2</sup> or convert light into chemical energy involving “blind” reacta
- nts and products.<sup>3\,4\,5</sup></p>\n\nhttp://www.physik.uni-muenchen.
- de/aus_der_fakultaet/kolloquien/cens_seminar/141024_jullien/index.html
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
+UID:3468377130422958441
+DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/150109_giessen/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141024_jullien/index.html
+ minar/150109_giessen/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150116_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Evolution of RNA viruses and the predictability of n
@@ -172,5 +140,47 @@ DESCRIPTION:Speaker: Prof. Motomu Tanaka\, Physical Chemistry of Biosystem
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141031_tanaka/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Light and slavery: driving (photo) chemical dynamics
+  for selective imaging and energy conversion in chemical networks
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141024T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141024T164500
+UID:-5611173903741859939
+DESCRIPTION:Speaker: Dr. Ludovic Jullien\, Laboratoire P.A.S.T.E.U.R.\, EN
+ S/CNRS/UMPC\, Paris\n\n<p>Light is a flexible trigger to drive the kinetic
+ s of photochemical reactions with favorable spatiotemporal resolution. Upo
+ n applying appropriate temporal and spatial patterns of illumination\, kin
+ etic control of reactive processes can permit to highly selectively addres
+ s a targeted photoactive probe in a mixture of interfering species<sup>1\,
+ 2</sup> or convert light into chemical energy involving “blind” reacta
+ nts and products.<sup>3\,4\,5</sup></p>\n\nhttp://www.physik.uni-muenchen.
+ de/aus_der_fakultaet/kolloquien/cens_seminar/141024_jullien/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141024_jullien/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T164500
+UID:-5175689120931383380
+DESCRIPTION:Speaker: Dr. Bernhard Urbaszek\, Laboratory of Physics and Che
+ mistry of Nano-Objects (INSA-CNRS-UPS)\, Toulouse\n\n<p>In strong analogy 
+ to graphene\, the physical properties of transition metal dichalcogenides 
+ (TMDCs) change drastically when thinning the bulk material down to one mon
+ olayer (ML). The closely related ML materials MoS<sub>2</sub>\, MoSe<sub>2
+ </sub>\, WSe<sub>2</sub> and WS<sub>2</sub> have a direct optical bandgap 
+ in the visible region around 1.8 eV and show strong optical absorption (&g
+ t\;10% / ML). TMDC MLs are atomically flat\, 2D materials for electronic d
+ evices such as transistors\, non-linear optics (frequency doubling) and op
+ toelectronics (photodetectors\, LEDs and solar cells). The properties of d
+ ifferent ML materials can be combined in heterostructure devices. During t
+ his seminar a general introduction to TMDC ML properties will be given [1]
+ .</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/ce
+ ns_seminar/141114_urbaszek/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141114_urbaszek/index.html
 END:VEVENT
 END:VCALENDAR
