@@ -14,6 +14,19 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/weisz/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T173000
+UID:2016721948928697750
+DESCRIPTION:Professor Jörg Schmalian\, Karlsruhe Institute for Technology
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/schmalian/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/schmalian/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Cosmology with Type Ia Supernovae: w
  here do we stand today?
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
@@ -27,18 +40,5 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/goobar/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T173000
-UID:2016721948928697750
-DESCRIPTION:Professor Jörg Schmalian\, Karlsruhe Institute for Technology
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/schmalian/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/schmalian/index.html
 END:VEVENT
 END:VCALENDAR
