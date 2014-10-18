@@ -32,6 +32,29 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141121_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T164500
+UID:-5175689120931383380
+DESCRIPTION:Speaker: Dr. Bernhard Urbaszek\, Laboratory of Physics and Che
+ mistry of Nano-Objects (INSA-CNRS-UPS)\, Toulouse\n\n<p>In strong analogy 
+ to graphene\, the physical properties of transition metal dichalcogenides 
+ (TMDCs) change drastically when thinning the bulk material down to one mon
+ olayer (ML). The closely related ML materials MoS<sub>2</sub>\, MoSe<sub>2
+ </sub>\, WSe<sub>2</sub> and WS<sub>2</sub> have a direct optical bandgap 
+ in the visible region around 1.8 eV and show strong optical absorption (&g
+ t\;10% / ML). TMDC MLs are atomically flat\, 2D materials for electronic d
+ evices such as transistors\, non-linear optics (frequency doubling) and op
+ toelectronics (photodetectors\, LEDs and solar cells). The properties of d
+ ifferent ML materials can be combined in heterostructure devices. During t
+ his seminar a general introduction to TMDC ML properties will be given [1]
+ .</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/ce
+ ns_seminar/141114_urbaszek/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141114_urbaszek/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
@@ -68,15 +91,14 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
-UID:5366503179643643110
-DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
+ minar/150116_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
@@ -91,14 +113,15 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
+UID:5366503179643643110
+DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141205_strunk/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
+ minar/141205_strunk/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
@@ -137,28 +160,5 @@ DESCRIPTION:Speaker: Prof. Motomu Tanaka\, Physical Chemistry of Biosystem
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141031_tanaka/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T164500
-UID:-5175689120931383380
-DESCRIPTION:Speaker: Dr. Bernhard Urbaszek\, Laboratory of Physics and Che
- mistry of Nano-Objects (INSA-CNRS-UPS)\, Toulouse\n\n<p>In strong analogy 
- to graphene\, the physical properties of transition metal dichalcogenides 
- (TMDCs) change drastically when thinning the bulk material down to one mon
- olayer (ML). The closely related ML materials MoS<sub>2</sub>\, MoSe<sub>2
- </sub>\, WSe<sub>2</sub> and WS<sub>2</sub> have a direct optical bandgap 
- in the visible region around 1.8 eV and show strong optical absorption (&g
- t\;10% / ML). TMDC MLs are atomically flat\, 2D materials for electronic d
- evices such as transistors\, non-linear optics (frequency doubling) and op
- toelectronics (photodetectors\, LEDs and solar cells). The properties of d
- ifferent ML materials can be combined in heterostructure devices. During t
- his seminar a general introduction to TMDC ML properties will be given [1]
- .</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/ce
- ns_seminar/141114_urbaszek/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141114_urbaszek/index.html
 END:VEVENT
 END:VCALENDAR
