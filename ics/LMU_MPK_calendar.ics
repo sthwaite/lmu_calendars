@@ -2,18 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: The puzzling Higgs: physics beyond th
- e Standard Model after the first LHC phase
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141020T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141020T190000
-UID:-3562942995425145417
-DESCRIPTION:Speaker: Dr. David M. Straub (Excellence Cluster Universe\, Te
- chnische Universität München)\n\n\n\n\nhttp://www.physik.uni-muenchen.de
- /aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_lmu_2/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
+SUMMARY:Münchner Physik Kolloquium: Structurally disordered materials: fr
+ om fundamental physics to applications
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T190000
+UID:-1836420402310172672
+DESCRIPTION:Speaker: Prof. Dr. Alessio Zaccone (Physik-Department\, Techni
+ sche Universität München)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus
+ _der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_3/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_2/index.html
+ kolloquium/mpk_tum_3/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Spin-orbitronics\, a new direction fo
@@ -43,6 +42,19 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_12/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T190000
+UID:2573246288288617675
+DESCRIPTION:Speaker: Prof. Dr. Stuart S.P. Parkin (Max Planck Institute fo
+ r Microstructure Physics\, Halle\, Germany / IBM Research – Almaden\, Ca
+ lifornia\, USA )\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
+ aet/kolloquien/physik_kolloquium/mpk_tum_11/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_11/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Quantum Optomechanics - a road to gra
@@ -125,31 +137,5 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_4/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T190000
-UID:2573246288288617675
-DESCRIPTION:Speaker: Prof. Dr. Stuart S.P. Parkin (Max Planck Institute fo
- r Microstructure Physics\, Halle\, Germany / IBM Research – Almaden\, Ca
- lifornia\, USA )\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
- aet/kolloquien/physik_kolloquium/mpk_tum_11/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_11/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Structurally disordered materials: fr
- om fundamental physics to applications
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141027T190000
-UID:-1836420402310172672
-DESCRIPTION:Speaker: Prof. Dr. Alessio Zaccone (Physik-Department\, Techni
- sche Universität München)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus
- _der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_3/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_3/index.html
 END:VEVENT
 END:VCALENDAR

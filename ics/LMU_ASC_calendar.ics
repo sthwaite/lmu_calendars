@@ -2,17 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T173000
-UID:2016721948928697750
-DESCRIPTION:Professor Jörg Schmalian\, Karlsruhe Institute for Technology
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/schmalian/index.html
+SUMMARY:Sommerfeld Theory Colloquium: Cosmology with Type Ia Supernovae: w
+ here do we stand today?
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
+UID:7876093972227568997
+DESCRIPTION:Professor Ariel Goobar\, The Oskar Klein Centre for Cosmoparti
+ cle Physics\, Department of Physics\, Stockholm University\n\nhttp://www.p
+ hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/goobar/i
+ ndex.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/schmalian/index.html
+ loquium/goobar/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
@@ -28,18 +30,29 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/bernardis/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: Cosmology with Type Ia Supernovae: w
- here do we stand today?
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T173000
-UID:7876093972227568997
-DESCRIPTION:Professor Ariel Goobar\, The Oskar Klein Centre for Cosmoparti
- cle Physics\, Department of Physics\, Stockholm University\n\nhttp://www.p
- hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/goobar/i
- ndex.html
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T173000
+UID:2572219316046793496
+DESCRIPTION:Professor Andrew Hodges\, Mathematical Institute\, University 
+ of Oxford\, UK\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/koll
+ oquien/asc_kolloquium/hodges/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/goobar/index.html
+ loquium/hodges/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T173000
+UID:2016721948928697750
+DESCRIPTION:Professor Jörg Schmalian\, Karlsruhe Institute for Technology
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/schmalian/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/schmalian/index.html
 END:VEVENT
 END:VCALENDAR
