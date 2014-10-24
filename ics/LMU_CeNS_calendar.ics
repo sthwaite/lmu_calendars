@@ -22,17 +22,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
-UID:8293417213054624185
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150130_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150130_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T164500
 UID:4329609806339298271
@@ -44,28 +33,25 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
-UID:231553464786158594
-DESCRIPTION:Speaker: Prof. Leif Hammarström\, Uppsala Universitet\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/141212_hammarstroem/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141212_hammarstroem/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
- librium
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T164500
-UID:7889914737152661997
-DESCRIPTION:Speaker: Dr. André Eckardt\, Max Planck Institute for the Phy
- sics of Complex Systems\, Dresden\n\n\n\nhttp://www.physik.uni-muenchen.de
- /aus_der_fakultaet/kolloquien/cens_seminar/141128_eckardt/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
+UID:8293417213054624185
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150130_nn/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141128_eckardt/index.html
+ minar/150130_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150116_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
@@ -91,6 +77,31 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/150109_giessen/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
+ librium
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T164500
+UID:7889914737152661997
+DESCRIPTION:Speaker: Dr. André Eckardt\, Max Planck Institute for the Phy
+ sics of Complex Systems\, Dresden\n\n\n\nhttp://www.physik.uni-muenchen.de
+ /aus_der_fakultaet/kolloquien/cens_seminar/141128_eckardt/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141128_eckardt/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
+UID:231553464786158594
+DESCRIPTION:Speaker: Prof. Leif Hammarström\, Uppsala Universitet\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/141212_hammarstroem/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141212_hammarstroem/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
@@ -101,17 +112,6 @@ DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141205_strunk/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
@@ -137,18 +137,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141114_urbaszek/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T164500
-UID:-2920285032616791045
-DESCRIPTION:Speaker: Prof. Motomu Tanaka\, Physical Chemistry of Biosystem
- s\, University of Heidelberg\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_
- der_fakultaet/kolloquien/cens_seminar/141031_tanaka/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141031_tanaka/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Evolution of RNA viruses and the predictability of n
  ext year's flu
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141107T153000
@@ -160,5 +148,17 @@ DESCRIPTION:Speaker: Dr. Richard Neher\, MPI für Entwicklungsbiologie Tü
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141107_neher/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T164500
+UID:-2920285032616791045
+DESCRIPTION:Speaker: Prof. Motomu Tanaka\, Physical Chemistry of Biosystem
+ s\, University of Heidelberg\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_
+ der_fakultaet/kolloquien/cens_seminar/141031_tanaka/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141031_tanaka/index.html
 END:VEVENT
 END:VCALENDAR
