@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T173000
+UID:2572219316046793496
+DESCRIPTION:Professor Andrew Hodges\, Mathematical Institute\, University 
+ of Oxford\, UK\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/koll
+ oquien/asc_kolloquium/hodges/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/hodges/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Cosmology with Type Ia Supernovae: w
  here do we stand today?
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141105T161500
@@ -41,18 +54,5 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/schmalian/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T173000
-UID:2572219316046793496
-DESCRIPTION:Professor Andrew Hodges\, Mathematical Institute\, University 
- of Oxford\, UK\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/koll
- oquien/asc_kolloquium/hodges/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/hodges/index.html
 END:VEVENT
 END:VCALENDAR
