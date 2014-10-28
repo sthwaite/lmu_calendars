@@ -2,27 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
+SUMMARY:CeNS Seminar: Physical Modeling of Diseases and Development: What 
+ Shape and Motion Talk
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T164500
-UID:-2920285032616791045
+UID:-232032188782860297
 DESCRIPTION:Speaker: Prof. Motomu Tanaka\, Physical Chemistry of Biosystem
- s\, University of Heidelberg\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_
- der_fakultaet/kolloquien/cens_seminar/141031_tanaka/index.html
+ s\, University of Heidelberg\n\n<p>In nature\, diseases and development ar
+ e highly complex\, stochastic processes. In the last several decades\, two
+  major approaches have been developed for mechanistic understanding of lif
+ e: (1) molecular biology approaches focusing on the roles of individual mo
+ lecules/genes and (2) in vivo studies relying on animal models. However\, 
+ huge gaps in length-and time-scales often make it difficult to describe co
+ operative\, dynamic interactions in biological systems. The ground challen
+ ge for physicists is: "how to extract numbers with units from life".</p>\n
+ \nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semi
+ nar/141031_tanaka/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141031_tanaka/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
-UID:4677159742953500153
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T164500
+UID:4329609806339298271
 DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
+ _fakultaet/kolloquien/cens_seminar/141121_nn/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150123_nn/index.html
+ minar/141121_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
@@ -37,14 +46,37 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T164500
-UID:4329609806339298271
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
 DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/141121_nn/index.html
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141121_nn/index.html
+ minar/150116_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
+UID:4677159742953500153
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150123_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
+UID:3468377130422958441
+DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/150109_giessen/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150109_giessen/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
@@ -61,30 +93,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
-UID:3468377130422958441
-DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/150109_giessen/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150109_giessen/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
-UID:5366503179643643110
-DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
 UID:231553464786158594
@@ -97,14 +105,15 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
+UID:5366503179643643110
+DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141205_strunk/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
+ minar/141205_strunk/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
