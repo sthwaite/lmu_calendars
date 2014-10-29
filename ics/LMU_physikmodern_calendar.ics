@@ -31,6 +31,30 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  modern/schweizer/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Physik Modern: Punktgenaue Vollbremsung: Physik am lebenden Körpe
+ r
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T203000
+UID:-5815688939913665287
+DESCRIPTION:Speaker: Prof. Katia Parodi (LMU München)\n\nIn der Therapie 
+ bösartiger Tumoren gilt es\, die Strahlenwirkung so genau wie möglich au
+ f das erkrankte Gewebe zu konzentrieren und umliegende Organe zu schonen. 
+ Ein Fokus aktueller Forschung ist die Teilchentherapie mit Ionen\, bei der
+  der Hauptteil der Energie erst am Bahnende innerhalb desTumors\, am sogen
+ annten Bragg-Peak\, abgegeben wird. Dieses fordert immer mehr die Physiker
+  mit ihrer Forschung und ihren Methoden\, um exakt und dreidimensional zu 
+ bestimmen\, wie viel Energie durch die Strahlung wo im Körper auftrifft. 
+ Dieser Vortrag wird die Grundlagen der Teilchentherapie präsentieren und 
+ aktuelle Forschungsansätze vorstellen\, die derzeit verfolgt werden\, um 
+ weitere Fortschritte in der Krebstherapie zu ermöglichen.\n\nhttp://www.p
+ hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_modern/parodi/in
+ dex.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/parodi/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Physik Modern: Reaktorexperimente\, Neutrinooszillationen und Reak
  tormonitoring
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141211T191500
@@ -58,30 +82,6 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  modern/haag/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Physik Modern: Punktgenaue Vollbremsung: Physik am lebenden Körpe
- r
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T191500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T203000
-UID:-5815688939913665287
-DESCRIPTION:Speaker: Prof. Katia Parodi (LMU München)\n\nIn der Therapie 
- bösartiger Tumoren gilt es\, die Strahlenwirkung so genau wie möglich au
- f das erkrankte Gewebe zu konzentrieren und umliegende Organe zu schonen. 
- Ein Fokus aktueller Forschung ist die Teilchentherapie mit Ionen\, bei der
-  der Hauptteil der Energie erst am Bahnende innerhalb desTumors\, am sogen
- annten Bragg-Peak\, abgegeben wird. Dieses fordert immer mehr die Physiker
-  mit ihrer Forschung und ihren Methoden\, um exakt und dreidimensional zu 
- bestimmen\, wie viel Energie durch die Strahlung wo im Körper auftrifft. 
- Dieser Vortrag wird die Grundlagen der Teilchentherapie präsentieren und 
- aktuelle Forschungsansätze vorstellen\, die derzeit verfolgt werden\, um 
- weitere Fortschritte in der Krebstherapie zu ermöglichen.\n\nhttp://www.p
- hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_modern/parodi/in
- dex.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- modern/parodi/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Physik Modern: Magnetische Pinzetten: Ziehen und Drehen am Genom
