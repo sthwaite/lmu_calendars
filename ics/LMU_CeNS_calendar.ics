@@ -2,25 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Physical Modeling of Diseases and Development: What 
- Shape and Motion Talk
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141031T164500
-UID:-232032188782860297
-DESCRIPTION:Speaker: Prof. Motomu Tanaka\, Physical Chemistry of Biosystem
- s\, University of Heidelberg\n\n<p>In nature\, diseases and development ar
- e highly complex\, stochastic processes. In the last several decades\, two
-  major approaches have been developed for mechanistic understanding of lif
- e: (1) molecular biology approaches focusing on the roles of individual mo
- lecules/genes and (2) in vivo studies relying on animal models. However\, 
- huge gaps in length-and time-scales often make it difficult to describe co
- operative\, dynamic interactions in biological systems. The ground challen
- ge for physicists is: "how to extract numbers with units from life".</p>\n
- \nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semi
- nar/141031_tanaka/index.html
+SUMMARY:CeNS Seminar: Evolution of RNA viruses and the predictability of n
+ ext year's flu
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141107T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141107T164500
+UID:5053415577349807795
+DESCRIPTION:Speaker: Dr. Richard Neher\, MPI für Entwicklungsbiologie Tü
+ bingen\n\n<p>Our immune system detects pathogens\, memorizes their feature
+ s\, and prevents future infections by the same pathogen. In response to th
+ is immune pressure\, HIV and seasonal influenza their genome and thereby a
+ void immune recognition. Such evolving populations of HIV and influenza ar
+ e diverse with many different variants competing for survival. I will pres
+ ent theoretical models that predict statistical properties of such rapidly
+  adapting populations and compare these predictions to time resolved deep 
+ sequencing data obtained from several HIV positive patients. The global po
+ pulation of seasonal influenza virus shows similar patterns of rapid adapt
+ ation. I will show how we can use our understanding of rapidly adapting po
+ pulation to predict the dominant influenza strain of the coming season.</p
+ >\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_s
+ eminar/141107_neher/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141031_tanaka/index.html
+ minar/141107_neher/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
@@ -32,88 +35,6 @@ DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141121_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
-UID:3468377130422958441
-DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/150109_giessen/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150109_giessen/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
-UID:231553464786158594
-DESCRIPTION:Speaker: Prof. Leif Hammarström\, Uppsala Universitet\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/141212_hammarstroem/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141212_hammarstroem/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
- librium
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T164500
-UID:7889914737152661997
-DESCRIPTION:Speaker: Dr. André Eckardt\, Max Planck Institute for the Phy
- sics of Complex Systems\, Dresden\n\n\n\nhttp://www.physik.uni-muenchen.de
- /aus_der_fakultaet/kolloquien/cens_seminar/141128_eckardt/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141128_eckardt/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
-UID:8293417213054624185
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150130_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150130_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
-UID:4677159742953500153
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150123_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
-UID:5366503179643643110
-DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
@@ -139,27 +60,85 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141114_urbaszek/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Evolution of RNA viruses and the predictability of n
- ext year's flu
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141107T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141107T164500
-UID:5053415577349807795
-DESCRIPTION:Speaker: Dr. Richard Neher\, MPI für Entwicklungsbiologie Tü
- bingen\n\n<p>Our immune system detects pathogens\, memorizes their feature
- s\, and prevents future infections by the same pathogen. In response to th
- is immune pressure\, HIV and seasonal influenza their genome and thereby a
- void immune recognition. Such evolving populations of HIV and influenza ar
- e diverse with many different variants competing for survival. I will pres
- ent theoretical models that predict statistical properties of such rapidly
-  adapting populations and compare these predictions to time resolved deep 
- sequencing data obtained from several HIV positive patients. The global po
- pulation of seasonal influenza virus shows similar patterns of rapid adapt
- ation. I will show how we can use our understanding of rapidly adapting po
- pulation to predict the dominant influenza strain of the coming season.</p
- >\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_s
- eminar/141107_neher/index.html
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
+UID:4677159742953500153
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141107_neher/index.html
+ minar/150123_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
+UID:231553464786158594
+DESCRIPTION:Speaker: Prof. Leif Hammarström\, Uppsala Universitet\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/141212_hammarstroem/index.html
+LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141212_hammarstroem/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150116_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
+UID:3468377130422958441
+DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/150109_giessen/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150109_giessen/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
+ librium
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T164500
+UID:7889914737152661997
+DESCRIPTION:Speaker: Dr. André Eckardt\, Max Planck Institute for the Phy
+ sics of Complex Systems\, Dresden\n\n\n\nhttp://www.physik.uni-muenchen.de
+ /aus_der_fakultaet/kolloquien/cens_seminar/141128_eckardt/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141128_eckardt/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
+UID:5366503179643643110
+DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141205_strunk/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141205_strunk/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
+UID:8293417213054624185
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150130_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150130_nn/index.html
 END:VEVENT
 END:VCALENDAR
