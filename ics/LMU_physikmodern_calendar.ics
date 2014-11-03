@@ -2,55 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Physik Modern: Magnetische Pinzetten: Ziehen und Drehen am Genom
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141120T191500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141120T203000
-UID:-6275159446270211418
-DESCRIPTION:Speaker: Prof. Jan Lipfert (LMU München)\n\nDNA ist der Träg
- er unserer genetischen Information. In jeder menschlichen Zelle sind dabei
-  fast 2 m DNA in einem winzigen Volumen aufgewickelt und verpackt. Das DNA
- -Genom ist aber keinesfalls statisch: ständig werden Gene durch eine Viel
- zahl von molekularen Maschinen ausgelesen\, DNA kopiert\, repariert und re
- guliert. Magnetische Pinzetten erlauben es\, an einzelnen Molekülen zu zi
- ehen und zu drehen. Dabei wird das zu untersuchende Molekül mit einem End
- e an einer Oberfläche und mit dem anderen Ende an einer winzigen magnetis
- chen Kugel befestigt. Durch Magnetfelder können sowohl Kräfte als auch D
- rehmomente ausgeübt werden. Wir benutzen magnetische Pinzetten\, um die g
- rundlegenden mechanischen Eigenschaften des genetischen Materials zu unter
- suchen. Darüber hinaus erlauben sie uns\, fundamentale Prozesse und Wechs
- elwirkungen für die Packung\, Reparatur und das Auslesen der DNA zu unter
- suchen.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/
- physik_modern/lipfert/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- modern/lipfert/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Physik Modern: Punktgenaue Vollbremsung: Physik am lebenden Körpe
- r
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T191500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T203000
-UID:-5815688939913665287
-DESCRIPTION:Speaker: Prof. Katia Parodi (LMU München)\n\nIn der Therapie 
- bösartiger Tumoren gilt es\, die Strahlenwirkung so genau wie möglich au
- f das erkrankte Gewebe zu konzentrieren und umliegende Organe zu schonen. 
- Ein Fokus aktueller Forschung ist die Teilchentherapie mit Ionen\, bei der
-  der Hauptteil der Energie erst am Bahnende innerhalb desTumors\, am sogen
- annten Bragg-Peak\, abgegeben wird. Dieses fordert immer mehr die Physiker
-  mit ihrer Forschung und ihren Methoden\, um exakt und dreidimensional zu 
- bestimmen\, wie viel Energie durch die Strahlung wo im Körper auftrifft. 
- Dieser Vortrag wird die Grundlagen der Teilchentherapie präsentieren und 
- aktuelle Forschungsansätze vorstellen\, die derzeit verfolgt werden\, um 
- weitere Fortschritte in der Krebstherapie zu ermöglichen.\n\nhttp://www.p
- hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_modern/parodi/in
- dex.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- modern/parodi/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Physik Modern: Gammastrahlenastronomie mit MAGIC und CTA
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141106T191500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141106T203000
@@ -78,6 +29,55 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  modern/schweizer/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physik Modern: Punktgenaue Vollbremsung: Physik am lebenden Körpe
+ r
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150122T203000
+UID:-5815688939913665287
+DESCRIPTION:Speaker: Prof. Katia Parodi (LMU München)\n\nIn der Therapie 
+ bösartiger Tumoren gilt es\, die Strahlenwirkung so genau wie möglich au
+ f das erkrankte Gewebe zu konzentrieren und umliegende Organe zu schonen. 
+ Ein Fokus aktueller Forschung ist die Teilchentherapie mit Ionen\, bei der
+  der Hauptteil der Energie erst am Bahnende innerhalb desTumors\, am sogen
+ annten Bragg-Peak\, abgegeben wird. Dieses fordert immer mehr die Physiker
+  mit ihrer Forschung und ihren Methoden\, um exakt und dreidimensional zu 
+ bestimmen\, wie viel Energie durch die Strahlung wo im Körper auftrifft. 
+ Dieser Vortrag wird die Grundlagen der Teilchentherapie präsentieren und 
+ aktuelle Forschungsansätze vorstellen\, die derzeit verfolgt werden\, um 
+ weitere Fortschritte in der Krebstherapie zu ermöglichen.\n\nhttp://www.p
+ hysik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_modern/parodi/in
+ dex.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/parodi/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Physik Modern: Magnetische Pinzetten: Ziehen und Drehen am Genom
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141120T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141120T203000
+UID:-6275159446270211418
+DESCRIPTION:Speaker: Prof. Jan Lipfert (LMU München)\n\nDNA ist der Träg
+ er unserer genetischen Information. In jeder menschlichen Zelle sind dabei
+  fast 2 m DNA in einem winzigen Volumen aufgewickelt und verpackt. Das DNA
+ -Genom ist aber keinesfalls statisch: ständig werden Gene durch eine Viel
+ zahl von molekularen Maschinen ausgelesen\, DNA kopiert\, repariert und re
+ guliert. Magnetische Pinzetten erlauben es\, an einzelnen Molekülen zu zi
+ ehen und zu drehen. Dabei wird das zu untersuchende Molekül mit einem End
+ e an einer Oberfläche und mit dem anderen Ende an einer winzigen magnetis
+ chen Kugel befestigt. Durch Magnetfelder können sowohl Kräfte als auch D
+ rehmomente ausgeübt werden. Wir benutzen magnetische Pinzetten\, um die g
+ rundlegenden mechanischen Eigenschaften des genetischen Materials zu unter
+ suchen. Darüber hinaus erlauben sie uns\, fundamentale Prozesse und Wechs
+ elwirkungen für die Packung\, Reparatur und das Auslesen der DNA zu unter
+ suchen.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/
+ physik_modern/lipfert/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/lipfert/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Physik Modern: Reaktorexperimente\, Neutrinooszillationen und Reak
