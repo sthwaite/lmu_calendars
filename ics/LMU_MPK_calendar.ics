@@ -16,17 +16,17 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_5/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Dark matter and Galaxy formation
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T190000
-UID:-8684928917126277615
-DESCRIPTION:Speaker: Prof. Dr. Francoise Combes (Observatoire de Paris\, L
- ERMA)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
- ien/physik_kolloquium/mpk_lmu_8/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
+SUMMARY:Münchner Physik Kolloquium: Non-relativistic effective field theo
+ ries of QCD and QED
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141124T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141124T190000
+UID:-2466863551443185307
+DESCRIPTION:Speaker: Prof. Dr. Joan Soto  (University of Barcelona)\n\n\n\
+ n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_k
+ olloquium/mpk_tum_7/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_8/index.html
+ kolloquium/mpk_tum_7/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
@@ -40,33 +40,6 @@ DESCRIPTION:Speaker: Prof. Dr. Stuart S.P. Parkin (Max Planck Institute fo
 LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_11/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Probing the mechanical properties\, i
- nteractions\, and processing of DNA and RNA using single molecule torque a
- nd twist measurements
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T190000
-UID:-254068406089849281
-DESCRIPTION:Speaker: Prof. Dr. Jan Lipfert (Physik-Department\, Ludwig-Max
- imilians-Universität\, München)\n\n\n\n\nhttp://www.physik.uni-muenchen.
- de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_9/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_9/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Non-relativistic effective field theo
- ries of QCD and QED
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141124T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141124T190000
-UID:-2466863551443185307
-DESCRIPTION:Speaker: Prof. Dr. Joan Soto  (University of Barcelona)\n\n\n\
- n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_k
- olloquium/mpk_tum_7/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_7/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Materials properties controlled by mi
@@ -84,18 +57,18 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_12/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Is the wave function in one-to-one co
- rrespondence with reality?
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T190000
-UID:3136403542664180192
-DESCRIPTION:Speaker: Prof. Dr. Renato Renner (ETH Zürich)\n\n\n\n\nhttp:/
- /www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium
- /mpk_lmu_6/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
+SUMMARY:Münchner Physik Kolloquium: Probing the mechanical properties\, i
+ nteractions\, and processing of DNA and RNA using single molecule torque a
+ nd twist measurements
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T190000
+UID:-254068406089849281
+DESCRIPTION:Speaker: Prof. Dr. Jan Lipfert (Physik-Department\, Ludwig-Max
+ imilians-Universität\, München)\n\n\n\n\nhttp://www.physik.uni-muenchen.
+ de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_9/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_6/index.html
+ kolloquium/mpk_tum_9/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Quantum Optomechanics - a road to gra
@@ -110,5 +83,32 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_10/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Dark matter and Galaxy formation
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T190000
+UID:-8684928917126277615
+DESCRIPTION:Speaker: Prof. Dr. Francoise Combes (Observatoire de Paris\, L
+ ERMA)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
+ ien/physik_kolloquium/mpk_lmu_8/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_8/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Is the wave function in one-to-one co
+ rrespondence with reality?
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141117T190000
+UID:3136403542664180192
+DESCRIPTION:Speaker: Prof. Dr. Renato Renner (ETH Zürich)\n\n\n\n\nhttp:/
+ /www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_kolloquium
+ /mpk_lmu_6/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_6/index.html
 END:VEVENT
 END:VCALENDAR
