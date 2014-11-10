@@ -2,6 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
+SUMMARY:Physik Modern: Reaktorexperimente\, Neutrinooszillationen und Reak
+ tormonitoring
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141211T191500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141211T203000
+UID:-46721020736913090
+DESCRIPTION:Speaker: Dr. Nils Haag (Technische Universität München)\n\nD
+ ie Neutrinophysik ist ein relativ junges Teilgebiet der (Astro-)Teilchenph
+ ysik\, denn erst vor rund 60 Jahren konnte die Existenz dieser elementaren
+  Teilchen experimentell nachgewiesen werden. Seitdem haben viele internati
+ onale Kollaborationen Großexperimente durchgeführt\, um die Eigenschafte
+ n dieser wechselwirkungs-scheuen Teilchen zu bestimmen. Doch obwohl bisher
+  schon beeindruckende Fortschritte erreicht wurden\, bleiben die Neutrinos
+  noch einige Antworten über ihre Natur schuldig. Nach einer Einführung i
+ n die Grundprinzipien der Neutrinophysik und den aktuellen Wissensstand\, 
+ werden im Vortrag aktuelle Experimente und deren Pläne und Ergebnisse vor
+ gestellt. Ebenso werde ich auf erste mögliche Anwendungen der Neutrinofor
+ schung eingehen. Diese ergeben sich dadurch\, dass Neutrinos nicht nur in 
+ Sternen\, sondern auch zahlreich in den Spalt- und Zerfallsprozessen in Ke
+ rnreaktoren produziert werden. Dies gibt uns die Möglichkeit\, nicht nur 
+ mit Hilfe von Kernreaktoren etwas über Neutrinos zu lernen\, sondern zuk
+ ünftig eventuell sogar Neutrinos zu nutzen\, um Kernreaktoren von außen 
+ zu überwachen.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kol
+ loquien/physik_modern/haag/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ modern/haag/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Physik Modern: Magnetische Pinzetten: Ziehen und Drehen am Genom
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141120T191500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141120T203000
@@ -49,34 +78,5 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  modern/parodi/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Physik Modern: Reaktorexperimente\, Neutrinooszillationen und Reak
- tormonitoring
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141211T191500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141211T203000
-UID:-46721020736913090
-DESCRIPTION:Speaker: Dr. Nils Haag (Technische Universität München)\n\nD
- ie Neutrinophysik ist ein relativ junges Teilgebiet der (Astro-)Teilchenph
- ysik\, denn erst vor rund 60 Jahren konnte die Existenz dieser elementaren
-  Teilchen experimentell nachgewiesen werden. Seitdem haben viele internati
- onale Kollaborationen Großexperimente durchgeführt\, um die Eigenschafte
- n dieser wechselwirkungs-scheuen Teilchen zu bestimmen. Doch obwohl bisher
-  schon beeindruckende Fortschritte erreicht wurden\, bleiben die Neutrinos
-  noch einige Antworten über ihre Natur schuldig. Nach einer Einführung i
- n die Grundprinzipien der Neutrinophysik und den aktuellen Wissensstand\, 
- werden im Vortrag aktuelle Experimente und deren Pläne und Ergebnisse vor
- gestellt. Ebenso werde ich auf erste mögliche Anwendungen der Neutrinofor
- schung eingehen. Diese ergeben sich dadurch\, dass Neutrinos nicht nur in 
- Sternen\, sondern auch zahlreich in den Spalt- und Zerfallsprozessen in Ke
- rnreaktoren produziert werden. Dies gibt uns die Möglichkeit\, nicht nur 
- mit Hilfe von Kernreaktoren etwas über Neutrinos zu lernen\, sondern zuk
- ünftig eventuell sogar Neutrinos zu nutzen\, um Kernreaktoren von außen 
- zu überwachen.\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kol
- loquien/physik_modern/haag/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- modern/haag/index.html
 END:VEVENT
 END:VCALENDAR
