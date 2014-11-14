@@ -2,85 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T164500
-UID:-5175689120931383380
-DESCRIPTION:Speaker: Dr. Bernhard Urbaszek\, Laboratory of Physics and Che
- mistry of Nano-Objects (INSA-CNRS-UPS)\, Toulouse\n\n<p>In strong analogy 
- to graphene\, the physical properties of transition metal dichalcogenides 
- (TMDCs) change drastically when thinning the bulk material down to one mon
- olayer (ML). The closely related ML materials MoS<sub>2</sub>\, MoSe<sub>2
- </sub>\, WSe<sub>2</sub> and WS<sub>2</sub> have a direct optical bandgap 
- in the visible region around 1.8 eV and show strong optical absorption (&g
- t\;10% / ML). TMDC MLs are atomically flat\, 2D materials for electronic d
- evices such as transistors\, non-linear optics (frequency doubling) and op
- toelectronics (photodetectors\, LEDs and solar cells). The properties of d
- ifferent ML materials can be combined in heterostructure devices. During t
- his seminar a general introduction to TMDC ML properties will be given [1]
- .</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/ce
- ns_seminar/141114_urbaszek/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141114_urbaszek/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T164500
-UID:4329609806339298271
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/141121_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141121_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Thermodynamics and the Quantum Transport of Particle
- s and Entropy
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
-UID:-3713736612567048259
-DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
- <p>The connection between macroscopic thermodynamics\, quantum statistics\
- , and quantum transport is discussed. It is proposed to employ not particl
- es\, but elementary Fermi- or Bose-systems as the elementary building bloc
- ks of ideal quantum gases. In this way\, the transport not only of particl
- es\, but also of entropy can be derived in a concise way\, and is illustra
- ted both for ballistic quantum wires\, and for diffusive conductors. In pa
- rticular\, the quantum interference effects in entropy transport are in cl
- ose correspondence to those of electric charge transport.</p>\n\nhttp://ww
- w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/141205_
- strunk/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
- librium
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T164500
-UID:7889914737152661997
-DESCRIPTION:Speaker: Dr. André Eckardt\, Max Planck Institute for the Phy
- sics of Complex Systems\, Dresden\n\n\n\nhttp://www.physik.uni-muenchen.de
- /aus_der_fakultaet/kolloquien/cens_seminar/141128_eckardt/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141128_eckardt/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
@@ -104,6 +25,42 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/150130_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Linear and Non-linear optical spectroscopy of MoS
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141114T164500
+UID:-5175689120931383380
+DESCRIPTION:Speaker: Dr. Bernhard Urbaszek\, Laboratory of Physics and Che
+ mistry of Nano-Objects (INSA-CNRS-UPS)\, Toulouse\n\n<p>In strong analogy 
+ to graphene\, the physical properties of transition metal dichalcogenides 
+ (TMDCs) change drastically when thinning the bulk material down to one mon
+ olayer (ML). The closely related ML materials MoS<sub>2</sub>\, MoSe<sub>2
+ </sub>\, WSe<sub>2</sub> and WS<sub>2</sub> have a direct optical bandgap 
+ in the visible region around 1.8 eV and show strong optical absorption (&g
+ t\;10% / ML). TMDC MLs are atomically flat\, 2D materials for electronic d
+ evices such as transistors\, non-linear optics (frequency doubling) and op
+ toelectronics (photodetectors\, LEDs and solar cells). The properties of d
+ ifferent ML materials can be combined in heterostructure devices. During t
+ his seminar a general introduction to TMDC ML properties will be given [1]
+ .</p>\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/ce
+ ns_seminar/141114_urbaszek/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141114_urbaszek/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Odd Bose condensation in steady states far from equi
+ librium
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141128T164500
+UID:7889914737152661997
+DESCRIPTION:Speaker: Dr. André Eckardt\, Max Planck Institute for the Phy
+ sics of Complex Systems\, Dresden\n\n\n\nhttp://www.physik.uni-muenchen.de
+ /aus_der_fakultaet/kolloquien/cens_seminar/141128_eckardt/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141128_eckardt/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
@@ -117,6 +74,38 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141121T164500
+UID:4329609806339298271
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/141121_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141121_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: Thermodynamics and the Quantum Transport of Particle
+ s and Entropy
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
+UID:-3713736612567048259
+DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
+ <p>The connection between macroscopic thermodynamics\, quantum statistics\
+ , and quantum transport is discussed. It is proposed to employ not particl
+ es\, but elementary Fermi- or Bose-systems as the elementary building bloc
+ ks of ideal quantum gases. In this way\, the transport not only of particl
+ es\, but also of entropy can be derived in a concise way\, and is illustra
+ ted both for ballistic quantum wires\, and for diffusive conductors. In pa
+ rticular\, the quantum interference effects in entropy transport are in cl
+ ose correspondence to those of electric charge transport.</p>\n\nhttp://ww
+ w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/141205_
+ strunk/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/141205_strunk/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
 UID:4677159742953500153
@@ -125,5 +114,16 @@ DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/150123_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150116_nn/index.html
 END:VEVENT
 END:VCALENDAR
