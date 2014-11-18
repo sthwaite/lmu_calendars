@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141203T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141203T173000
-UID:349186097830219857
-DESCRIPTION:Professor Fernando Quevedo\, ICTP Trieste\, Italy\n\nhttp://ww
- w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/queve
- do/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/quevedo/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T161500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150114T173000
 UID:2572219316046793496
@@ -29,16 +16,16 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T173000
-UID:2016721948928697750
-DESCRIPTION:Professor Jörg Schmalian\, Karlsruhe Institute for Technology
- \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/schmalian/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141203T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141203T173000
+UID:349186097830219857
+DESCRIPTION:Professor Fernando Quevedo\, ICTP Trieste\, Italy\n\nhttp://ww
+ w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kolloquium/queve
+ do/index.html
 LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/schmalian/index.html
+ loquium/quevedo/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: TBA
@@ -52,5 +39,19 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/bernardis/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: Topological Superconductivity and Un
+ conventional Pairing in Oxide Interfaces
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141217T173000
+UID:8029598494310833667
+DESCRIPTION:Professor Jörg Schmalian\, Karlsruhe Institute for Technology
+ \n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/schmalian/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/schmalian/index.html
 END:VEVENT
 END:VCALENDAR
