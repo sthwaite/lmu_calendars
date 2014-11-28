@@ -29,6 +29,21 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_10/index.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Materials properties controlled by mi
+ crostructure and external fields
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T190000
+UID:-2108575422758537081
+DESCRIPTION:Speaker: Prof. Dr. Horst Hahn (Institute for Nanotechnology an
+ d Helmholtz Institute Ulm / Karlsruhe Institute of Technology (KIT) )\n\n\
+ n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik
+ _kolloquium/mpk_lmu_12/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_12/index.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T171500
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T190000
@@ -54,20 +69,5 @@ DESCRIPTION:Speaker: Prof. Dr. Jan Lipfert (Physik-Department\, Ludwig-Max
 LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_tum_9/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Materials properties controlled by mi
- crostructure and external fields
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T190000
-UID:-2108575422758537081
-DESCRIPTION:Speaker: Prof. Dr. Horst Hahn (Institute for Nanotechnology an
- d Helmholtz Institute Ulm / Karlsruhe Institute of Technology (KIT) )\n\n\
- n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik
- _kolloquium/mpk_lmu_12/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_12/index.html
 END:VEVENT
 END:VCALENDAR

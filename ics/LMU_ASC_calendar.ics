@@ -16,19 +16,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/quevedo/index.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfeld Theory Colloquium: TBA
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150128T161500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150128T173000
-UID:5490661243435294509
-DESCRIPTION:Professor Paolo de Bernardis\, University La Sapienza\, Rome\,
-  Italy\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/a
- sc_kolloquium/bernardis/index.html
-LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
-  Theresienstr. 37
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
- loquium/bernardis/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: The Quest for High Temperature Super
  conductivity
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150121T161500
@@ -54,6 +41,19 @@ LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
   Theresienstr. 37
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
  loquium/hodges/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeld Theory Colloquium: TBA
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150128T161500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150128T173000
+UID:5490661243435294509
+DESCRIPTION:Professor Paolo de Bernardis\, University La Sapienza\, Rome\,
+  Italy\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/a
+ sc_kolloquium/bernardis/index.html
+LOCATION: Seminarraum A348/349\, Fakultät für Physik der LMU München\,
+  Theresienstr. 37
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/asc_kol
+ loquium/bernardis/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerfeld Theory Colloquium: Topological Superconductivity and Un
