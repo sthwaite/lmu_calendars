@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Dark matter and Galaxy formation
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141201T190000
-UID:-8684928917126277615
-DESCRIPTION:Speaker: Prof. Dr. Francoise Combes (Observatoire de Paris\, L
- ERMA)\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloqu
- ien/physik_kolloquium/mpk_lmu_8/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_8/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Materials properties controlled by mi
- crostructure and external fields
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T190000
-UID:-2108575422758537081
-DESCRIPTION:Speaker: Prof. Dr. Horst Hahn (Institute for Nanotechnology an
- d Helmholtz Institute Ulm / Karlsruhe Institute of Technology (KIT) )\n\n\
- n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik
- _kolloquium/mpk_lmu_12/index.html
-LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
- 4\, München
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_lmu_12/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T190000
-UID:2573246288288617675
-DESCRIPTION:Speaker: Prof. Dr. Stuart S.P. Parkin (Max Planck Institute fo
- r Microstructure Physics\, Halle\, Germany / IBM Research – Almaden\, Ca
- lifornia\, USA )\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
- aet/kolloquien/physik_kolloquium/mpk_tum_11/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_11/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Probing the mechanical properties\, i
  nteractions\, and processing of DNA and RNA using single molecule torque a
  nd twist measurements
@@ -69,5 +28,33 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_10/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: The Spin on Electronics!
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150112T190000
+UID:2573246288288617675
+DESCRIPTION:Speaker: Prof. Dr. Stuart S.P. Parkin (Max Planck Institute fo
+ r Microstructure Physics\, Halle\, Germany / IBM Research – Almaden\, Ca
+ lifornia\, USA )\n\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakult
+ aet/kolloquien/physik_kolloquium/mpk_tum_11/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_11/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Materials properties controlled by mi
+ crostructure and external fields
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T190000
+UID:-2108575422758537081
+DESCRIPTION:Speaker: Prof. Dr. Horst Hahn (Institute for Nanotechnology an
+ d Helmholtz Institute Ulm / Karlsruhe Institute of Technology (KIT) )\n\n\
+ n\n\nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik
+ _kolloquium/mpk_lmu_12/index.html
+LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr. 
+ 4\, München
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_lmu_12/index.html
 END:VEVENT
 END:VCALENDAR
