@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Thermodynamics and the Quantum Transport of Particle
- s and Entropy
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141205T164500
-UID:-3713736612567048259
-DESCRIPTION:Speaker: Prof. Christoph Strunk\, University of Regensburg\n\n
- <p>The connection between macroscopic thermodynamics\, quantum statistics\
- , and quantum transport is discussed. It is proposed to employ not particl
- es\, but elementary Fermi- or Bose-systems as the elementary building bloc
- ks of ideal quantum gases. In this way\, the transport not only of particl
- es\, but also of entropy can be derived in a concise way\, and is illustra
- ted both for ballistic quantum wires\, and for diffusive conductors. In pa
- rticular\, the quantum interference effects in entropy transport are in cl
- ose correspondence to those of electric charge transport.</p>\n\nhttp://ww
- w.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/141205_
- strunk/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141205_strunk/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
-UID:8293417213054624185
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150130_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150130_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
-UID:4677159742953500153
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150123_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
@@ -55,17 +12,6 @@ DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/150109_giessen/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Molecular Mechanisms of Artificial Photosynthesis
@@ -91,5 +37,38 @@ DESCRIPTION:Speaker: Prof. Leif Hammarström\, Department of Chemistry\,
 LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/141212_hammarstroem/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
+UID:4677159742953500153
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150123_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150116_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150130T164500
+UID:8293417213054624185
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150130_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150130_nn/index.html
 END:VEVENT
 END:VCALENDAR

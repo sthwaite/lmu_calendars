@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:Münchner Physik Kolloquium: Probing the mechanical properties\, i
- nteractions\, and processing of DNA and RNA using single molecule torque a
- nd twist measurements
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T171500
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T190000
-UID:-254068406089849281
-DESCRIPTION:Speaker: Prof. Dr. Jan Lipfert (Physik-Department\, Ludwig-Max
- imilians-Universität\, München)\n\n\n\n\nhttp://www.physik.uni-muenchen.
- de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_9/index.html
-LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
- kolloquium/mpk_tum_9/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Münchner Physik Kolloquium: Materials properties controlled by mi
  crostructure and external fields
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150119T171500
@@ -56,5 +42,19 @@ LOCATION: Hörsaal H 030\, Fakultät für Physik der LMU\, Schellingstr.
  4\, München
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
  kolloquium/mpk_lmu_10/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münchner Physik Kolloquium: Probing the mechanical properties\, i
+ nteractions\, and processing of DNA and RNA using single molecule torque a
+ nd twist measurements
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T171500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141208T190000
+UID:-254068406089849281
+DESCRIPTION:Speaker: Prof. Dr. Jan Lipfert (Physik-Department\, Ludwig-Max
+ imilians-Universität\, München)\n\n\n\n\nhttp://www.physik.uni-muenchen.
+ de/aus_der_fakultaet/kolloquien/physik_kolloquium/mpk_tum_9/index.html
+LOCATION: Hörsaal 2\, Physik-Department der TUM\, Garching
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/physik_
+ kolloquium/mpk_tum_9/index.html
 END:VEVENT
 END:VCALENDAR
