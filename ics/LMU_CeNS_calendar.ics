@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
-UID:3468377130422958441
-DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/150109_giessen/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150109_giessen/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: Molecular Mechanisms of Artificial Photosynthesis
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
@@ -40,17 +28,6 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
-UID:4677159742953500153
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
-LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150123_nn/index.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CeNS Seminar: title t.b.a.
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
 UID:3730265269540057537
@@ -70,5 +47,28 @@ DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
  minar/150130_nn/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
+UID:3468377130422958441
+DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/150109_giessen/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150109_giessen/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CeNS Seminar: title t.b.a.
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150123T164500
+UID:4677159742953500153
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150123_nn/index.html
+LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
+URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
+ minar/150123_nn/index.html
 END:VEVENT
 END:VCALENDAR
