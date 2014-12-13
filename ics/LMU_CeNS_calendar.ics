@@ -2,40 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kaleo//-//
 BEGIN:VEVENT
-SUMMARY:CeNS Seminar: Molecular Mechanisms of Artificial Photosynthesis
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20141212T164500
-UID:-6295189649431297147
-DESCRIPTION:Speaker: Prof. Leif Hammarström\, Department of Chemistry\, 
- Ångström Laboratory\, Uppsala University\n\n<p>In photosynthesis each ab
- sorbed photon leads to charge separation on a single-electron level only\,
-  while catalytic water splitting and hydrogen production are multi-electro
- n\, multi-proton processes. Artificial molecular systems have therefore ty
- pically shown light-driven water oxidation and fuel production as half rea
- ctions only\, using sacrificial agents to accumulate redox equivalents on 
- only one side. In order instead use the energy of reversibly photogenerate
- d charge separated states\, it is important to learn to control <i>accumul
- ative electron transfer</i> on molecular components. Moreover\, water spli
- tting and proton reduction at the catalysts requires management of proton 
- release and/or uptake\, which control the electron transfer processes by <
- i>proton-coupled electron transfer</i> (PCET). The understanding and contr
- ol of PCET can guide design of greatly improved molecular catalysts.</p>\n
- \nhttp://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semi
- nar/141212_hammarstroem/index.html
-LOCATION: Adolf-von-Baeyer-Hörsaal\, Butenandtstr. 5-13
-URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/141212_hammarstroem/index.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
-UID:3730265269540057537
-DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
- _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
+UID:3468377130422958441
+DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
+ http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
+ r/150109_giessen/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150116_nn/index.html
+ minar/150109_giessen/index.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
@@ -61,14 +37,13 @@ URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeNS Seminar: title t.b.a.
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T153000
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150109T164500
-UID:3468377130422958441
-DESCRIPTION:Speaker: Prof. Harald Giessen\, Universität Stuttgart\n\n\n\n
- http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_semina
- r/150109_giessen/index.html
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T153000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150116T164500
+UID:3730265269540057537
+DESCRIPTION:Speaker: N.N.\n\n\n\nhttp://www.physik.uni-muenchen.de/aus_der
+ _fakultaet/kolloquien/cens_seminar/150116_nn/index.html
 LOCATION: Kleiner Physik-Hörsaal\, Fakultät für Physik
 URL:http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_se
- minar/150109_giessen/index.html
+ minar/150116_nn/index.html
 END:VEVENT
 END:VCALENDAR
